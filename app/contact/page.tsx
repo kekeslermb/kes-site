@@ -1,5 +1,3 @@
-"use client";
-
 export default function ContactPage() {
   return (
     <main className="min-h-screen bg-black text-white px-6 py-16" id="contact">
