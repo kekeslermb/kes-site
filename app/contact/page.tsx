@@ -1,8 +1,11 @@
+"use client";
+
 export default function ContactPage() {
   return (
     <main className="min-h-screen bg-black text-white px-6 py-16" id="contact">
       <div className="max-w-3xl mx-auto space-y-6">
         <h1 className="text-4xl font-bold">Contact</h1>
+
         <p className="text-gray-300">The easiest way to reach me:</p>
 
         <div className="space-y-3 text-gray-300">
@@ -20,7 +23,7 @@ export default function ContactPage() {
             <span className="font-semibold text-white">LinkedIn:</span>{" "}
             <a
               className="underline hover:text-white"
-              href="https://linkedin.com/in/keslerbonheur"
+              href="https://www.linkedin.com/in/keslerbonheur"
               target="_blank"
               rel="noopener noreferrer"
             >
