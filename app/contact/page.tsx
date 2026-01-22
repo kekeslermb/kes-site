@@ -23,7 +23,7 @@ export default function ContactPage() {
             <span className="font-semibold text-white">LinkedIn:</span>{" "}
             <a
               className="underline hover:text-white"
-              href="https://www.linkedin.com/in/keslerbonheur"
+              href="https://linkedin.com/in/keslerbonheur"
               target="_blank"
               rel="noopener noreferrer"
             >
