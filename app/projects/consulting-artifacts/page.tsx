@@ -32,9 +32,9 @@ export default function ConsultingArtifactsPage() {
         </p>
 
         <h1 className="mt-4 text-3xl font-semibold tracking-tight">Consulting Artifacts</h1>
-        <p className="mt-2 text-gray-400">
-          Public-facing artifacts showing how I assess systems, design target states, and advise on execution
-          improvements for digital manufacturing.
+        <p className="mt-2 text-gray-400 leading-relaxed">
+          Public-facing artifacts that show how I assess systems, define target states, and advise on
+          execution improvements for digital manufacturing.
         </p>
       </header>
 
