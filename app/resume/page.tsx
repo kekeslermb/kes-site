@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     "Resume of Kesler Aristide-Bonheur — Manufacturing and MES-focused professional with experience across GMP operations, digital manufacturing systems, and IT/OT integration.",
 };
 
-const resumePdfPath = "/Kesler_Aristide_Bonheur_Resume.pdf";
+const resumePdfPath = "/consulting-artifacts/Kesler_Aristide_Bonheur_Resume.pdf";
 
 export default function ResumePage() {
   return (
@@ -48,10 +48,6 @@ export default function ResumePage() {
               Download (direct)
             </a>
           </div>
-
-          <p className="text-xs text-gray-500">
-            If you ever rename the PDF, the link must match the filename exactly (case + underscores).
-          </p>
         </section>
 
         {/* PREVIEW */}

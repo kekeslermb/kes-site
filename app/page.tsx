@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     "Kesler Aristide-Bonheur — Digital Manufacturing, MES, and Systems Thinking. I design, diagnose, and improve manufacturing execution systems in regulated environments.",
 };
 
-const resumePdfPath = "/Kesler_Aristide_Bonheur_Resume.pdf";
+const resumePdfPath = "/consulting-artifacts/Kesler_Aristide_Bonheur_Resume.pdf";
 
 export default function HomePage() {
   return (

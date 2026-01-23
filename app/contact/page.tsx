@@ -18,29 +18,27 @@ export default function ContactPage() {
         </header>
 
         <section className="rounded-2xl border border-gray-800 bg-black/30 p-6 space-y-4">
-          <div className="space-y-2">
-            <p className="text-gray-300">
-              <span className="text-gray-400">Email: </span>
-              <a
-                className="underline hover:text-white"
-                href="mailto:kekeslermb@gmail.com"
-              >
-                kekeslermb@gmail.com
-              </a>
-            </p>
+          <p className="text-gray-300">
+            <span className="text-gray-400">Email: </span>
+            <a
+              className="underline hover:text-white"
+              href="mailto:kekeslermb@gmail.com"
+            >
+              kekeslermb@gmail.com
+            </a>
+          </p>
 
-            <p className="text-gray-300">
-              <span className="text-gray-400">LinkedIn: </span>
-              <a
-                className="underline hover:text-white"
-                href="https://www.linkedin.com/in/kesler-bonheur-mba-abba46181/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                linkedin.com/in/kesler-bonheur-mba-abba46181
-              </a>
-            </p>
-          </div>
+          <p className="text-gray-300">
+            <span className="text-gray-400">LinkedIn: </span>
+            <a
+              className="underline hover:text-white"
+              href="https://www.linkedin.com/in/kesler-bonheur-mba-abba46181/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              linkedin.com/in/kesler-bonheur-mba-abba46181
+            </a>
+          </p>
         </section>
       </div>
     </main>
