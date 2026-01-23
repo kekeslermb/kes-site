@@ -1,72 +1,81 @@
-import Link from "next/link";
-import Image from "next/image";
 import type { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Artifact 1 — Architecture",
+  title: "Artifact 1 — Digital Manufacturing Blueprint",
   description:
-    "Digital manufacturing architecture showing how ERP, MES, automation, and data layers connect (ISA-95 style thinking).",
+    "Current state to target state blueprint for MES-enabled digital manufacturing execution.",
 };
+
+const pdf = "/consulting-artifacts/digital-manufacturing-blueprint.pdf";
+const img = "/consulting-artifacts/digital-manufacturing-blueprint.png";
 
 export default function Artifact1Page() {
   return (
-    <main className="mx-auto max-w-5xl px-6 py-14">
-      <header className="mb-10">
+    <main className="mx-auto max-w-5xl px-6 py-16 space-y-10">
+      <header className="space-y-4">
         <p className="text-sm text-gray-400">
-          <Link href="/projects/consulting-artifacts" className="underline hover:text-white">
-            ← Back to Consulting Artifacts
-          </Link>
+          <Link
+            href="/projects/consulting-artifacts"
+            className="underline hover:text-white"
+          >
+            Consulting Artifacts
+          </Link>{" "}
+          / Artifact 1
         </p>
 
-        <h1 className="mt-4 text-4xl font-semibold tracking-tight">
-          Artifact 1 — Digital Manufacturing Architecture
+        <h1 className="text-4xl font-semibold tracking-tight">
+          Artifact 1 — Digital Manufacturing Blueprint
         </h1>
-        <p className="mt-3 text-gray-400 leading-relaxed">
-          A high-level systems view showing how enterprise, execution, control, and data layers connect in a
-          digital manufacturing stack.
-        </p>
 
-        <div className="mt-5 flex flex-wrap gap-2 text-sm text-gray-400">
-          {["ISA-95 Thinking", "Integration Layers", "Systems Architecture"].map((tag) => (
-            <span key={tag} className="rounded-full border border-gray-800 px-3 py-1">
-              {tag}
-            </span>
-          ))}
-        </div>
+        <p className="text-gray-300 max-w-3xl">
+          A portfolio-style blueprint showing scope, current-state reality, and
+          execution goals for MES-enabled operations in regulated manufacturing.
+        </p>
       </header>
 
-      <section className="space-y-6">
-        <div className="rounded-2xl border border-gray-800 bg-black/30 p-6">
-          <h2 className="text-2xl font-medium">Architecture visual</h2>
-          <p className="mt-2 text-gray-400">
-            Click to open full-size.
-          </p>
+      {/* ACTIONS */}
+      <section className="flex flex-wrap gap-3">
+        <a
+          href={pdf}
+          target="_blank"
+          rel="noreferrer"
+          className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"
+        >
+          View PDF →
+        </a>
 
-          <a
-            href="/artifacts/artifact-1.png"
-            target="_blank"
-            rel="noreferrer"
-            className="mt-4 block overflow-hidden rounded-xl border border-gray-900 bg-black/40"
-          >
-            <Image
-              src="/artifacts/artifact-1.png"
-              alt="Digital manufacturing architecture diagram"
-              width={1800}
-              height={1000}
-              className="h-auto w-full object-contain"
-              priority
-            />
-          </a>
-        </div>
+        <a
+          href={pdf}
+          download
+          className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"
+        >
+          Download PDF
+        </a>
+      </section>
 
-        <div className="rounded-2xl border border-gray-800 bg-black/30 p-6">
-          <h2 className="text-2xl font-medium">What this demonstrates</h2>
-          <ul className="mt-3 list-disc space-y-2 pl-5 text-gray-400">
-            <li>Clear layering: enterprise → execution → control → data</li>
-            <li>Where integrations live (ERP ↔ MES ↔ SCADA/PLC ↔ historian/reporting)</li>
-            <li>Why systems context matters for troubleshooting + delivery</li>
-          </ul>
-        </div>
+      {/* VISUAL */}
+      <section className="rounded-2xl border border-gray-800 bg-black/30 p-6 space-y-4">
+        <h2 className="text-xl font-medium">Blueprint visual</h2>
+        <p className="text-gray-400">Click image to open full-size.</p>
+
+        <a href={img} target="_blank" rel="noreferrer">
+          <img
+            src={img}
+            alt="Digital Manufacturing Blueprint"
+            className="rounded-xl border border-gray-800"
+          />
+        </a>
+      </section>
+
+      {/* WHAT IT SHOWS */}
+      <section className="rounded-2xl border border-gray-800 bg-black/30 p-6 space-y-3">
+        <h2 className="text-xl font-medium">What this demonstrates</h2>
+        <ul className="list-disc pl-5 space-y-2 text-gray-400">
+          <li>Clear separation of enterprise, execution, control, and data layers</li>
+          <li>MES capabilities tied directly to execution outcomes</li>
+          <li>Consulting-style framing from current state to target state</li>
+        </ul>
       </section>
     </main>
   );

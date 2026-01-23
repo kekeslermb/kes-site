@@ -11,20 +11,26 @@ const artifacts = [
   {
     title: "Artifact 1 — Current State → Target State",
     desc: "A structured view of how work happens today, where friction lives, and what the target operating model should look like after improvement.",
-    href: "/projects/consulting-artifacts/artifact-1",
+    pageHref: "/projects/consulting-artifacts/artifact-1",
+    filePdf: "/consulting-artifacts/digital-manufacturing-blueprint.pdf",
+    filePng: "/consulting-artifacts/digital-manufacturing-blueprint.png",
     tags: ["Operating Model", "Process Clarity", "Value Stream"],
   },
   {
-    title: "Artifact 2 — Risk, Controls, and Compliance Impact",
-    desc: "A practical lens for identifying failure modes, defining controls, and aligning improvements to regulated manufacturing expectations.",
-    href: "/projects/consulting-artifacts/artifact-2",
-    tags: ["Risk", "Controls", "Compliance"],
+    title: "Artifact 2 — Roadmap & Delivery Plan",
+    desc: "A rollout-ready plan: milestones, owners, risks, sequencing, and measurable KPIs to ensure improvements stick.",
+    pageHref: "/projects/consulting-artifacts/artifact-2",
+    filePdf: "/consulting-artifacts/roadmap-blueprint.pdf",
+    filePng: "/consulting-artifacts/roadmap-blueprint.png",
+    tags: ["Delivery", "Roadmap", "KPIs"],
   },
   {
-    title: "Artifact 3 — Execution Plan and Adoption",
-    desc: "A rollout-ready approach: stakeholders, training, change control, and measurable KPIs to ensure improvements stick.",
-    href: "/projects/consulting-artifacts/artifact-3",
-    tags: ["Delivery", "Change Control", "KPIs"],
+    title: "Artifact 3 — Value Case & Impact",
+    desc: "A simple value case framing: problem, approach, outcomes, and the measurable impact tied back to operations.",
+    pageHref: "/projects/consulting-artifacts/artifact-3",
+    filePdf: "/consulting-artifacts/value-case.pdf",
+    filePng: "/consulting-artifacts/value-case.png",
+    tags: ["Value", "ROI", "Impact"],
   },
 ];
 
@@ -36,15 +42,15 @@ export default function ConsultingArtifactsPage() {
           Consulting Artifacts
         </h1>
         <p className="text-gray-300 max-w-2xl">
-          A small set of consulting-style artifacts showing how I structure problems, map systems,
-          and drive measurable improvements in regulated manufacturing.
+          A small set of consulting-style artifacts showing how I structure problems,
+          map systems, and drive measurable improvements in regulated manufacturing.
         </p>
       </header>
 
       <section className="grid gap-6 md:grid-cols-2">
         {artifacts.map((a) => (
           <article
-            key={a.href}
+            key={a.title}
             className="rounded-2xl border border-gray-800 bg-black/30 p-6 space-y-4"
           >
             <div className="space-y-2">
@@ -63,13 +69,31 @@ export default function ConsultingArtifactsPage() {
               ))}
             </div>
 
-            <div>
+            <div className="flex flex-wrap gap-3 pt-2">
               <Link
-                href={a.href}
+                href={a.pageHref}
                 className="inline-block text-sm underline text-gray-300 hover:text-white transition"
               >
-                Open artifact →
+                Open artifact page →
               </Link>
+
+              <a
+                href={a.filePdf}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-block text-sm underline text-gray-300 hover:text-white transition"
+              >
+                View PDF →
+              </a>
+
+              <a
+                href={a.filePng}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-block text-sm underline text-gray-300 hover:text-white transition"
+              >
+                View image →
+              </a>
             </div>
           </article>
         ))}

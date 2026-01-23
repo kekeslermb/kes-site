@@ -1,72 +1,80 @@
-import Link from "next/link";
-import Image from "next/image";
 import type { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Artifact 2 — Value Case",
+  title: "Artifact 2 — Roadmap & Execution Plan",
   description:
-    "Value case mapping current-state pain points to target-state improvements and measurable impact KPIs.",
+    "A delivery-focused roadmap outlining sequencing, ownership, and execution checkpoints.",
 };
+
+const pdf = "/consulting-artifacts/roadmap-blueprint.pdf";
+const img = "/consulting-artifacts/roadmap-blueprint.png";
 
 export default function Artifact2Page() {
   return (
-    <main className="mx-auto max-w-5xl px-6 py-14">
-      <header className="mb-10">
+    <main className="mx-auto max-w-5xl px-6 py-16 space-y-10">
+      <header className="space-y-4">
         <p className="text-sm text-gray-400">
-          <Link href="/projects/consulting-artifacts" className="underline hover:text-white">
-            ← Back to Consulting Artifacts
-          </Link>
+          <Link
+            href="/projects/consulting-artifacts"
+            className="underline hover:text-white"
+          >
+            Consulting Artifacts
+          </Link>{" "}
+          / Artifact 2
         </p>
 
-        <h1 className="mt-4 text-4xl font-semibold tracking-tight">
-          Artifact 2 — Digital Manufacturing Value Case
+        <h1 className="text-4xl font-semibold tracking-tight">
+          Artifact 2 — Roadmap & Execution Plan
         </h1>
-        <p className="mt-3 text-gray-400 leading-relaxed">
-          A value-case view connecting current-state pain points to target-state improvements, adoption levers,
-          and measurable impact.
-        </p>
 
-        <div className="mt-5 flex flex-wrap gap-2 text-sm text-gray-400">
-          {["Value Case", "KPIs", "Operational Impact"].map((tag) => (
-            <span key={tag} className="rounded-full border border-gray-800 px-3 py-1">
-              {tag}
-            </span>
-          ))}
-        </div>
+        <p className="text-gray-300 max-w-3xl">
+          A rollout-ready execution plan covering sequencing, ownership,
+          dependencies, and KPIs for MES-enabled manufacturing improvements.
+        </p>
       </header>
 
-      <section className="space-y-6">
-        <div className="rounded-2xl border border-gray-800 bg-black/30 p-6">
-          <h2 className="text-2xl font-medium">Value-case visual</h2>
-          <p className="mt-2 text-gray-400">
-            Click to open full-size (tables read better full-size).
-          </p>
+      {/* ACTIONS */}
+      <section className="flex flex-wrap gap-3">
+        <a
+          href={pdf}
+          target="_blank"
+          rel="noreferrer"
+          className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"
+        >
+          View PDF →
+        </a>
 
-          <a
-            href="/artifacts/artifact-2.png"
-            target="_blank"
-            rel="noreferrer"
-            className="mt-4 block overflow-hidden rounded-xl border border-gray-900 bg-black/40"
-          >
-            <Image
-              src="/artifacts/artifact-2.png"
-              alt="Digital manufacturing value case table"
-              width={1800}
-              height={1000}
-              className="h-auto w-full object-contain"
-              priority
-            />
-          </a>
-        </div>
+        <a
+          href={pdf}
+          download
+          className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"
+        >
+          Download PDF
+        </a>
+      </section>
 
-        <div className="rounded-2xl border border-gray-800 bg-black/30 p-6">
-          <h2 className="text-2xl font-medium">What this demonstrates</h2>
-          <ul className="mt-3 list-disc space-y-2 pl-5 text-gray-400">
-            <li>Turning process pain into measurable value and priorities</li>
-            <li>How to define “impact” beyond features (cycle time, deviations, review readiness)</li>
-            <li>How to communicate change in a business-ready way</li>
-          </ul>
-        </div>
+      {/* VISUAL */}
+      <section className="rounded-2xl border border-gray-800 bg-black/30 p-6 space-y-4">
+        <h2 className="text-xl font-medium">Roadmap visual</h2>
+
+        <a href={img} target="_blank" rel="noreferrer">
+          <img
+            src={img}
+            alt="MES Execution Roadmap"
+            className="rounded-xl border border-gray-800"
+          />
+        </a>
+      </section>
+
+      {/* WHAT IT SHOWS */}
+      <section className="rounded-2xl border border-gray-800 bg-black/30 p-6 space-y-3">
+        <h2 className="text-xl font-medium">What this demonstrates</h2>
+        <ul className="list-disc pl-5 space-y-2 text-gray-400">
+          <li>Delivery sequencing aligned to regulated environments</li>
+          <li>Ownership and adoption baked into execution</li>
+          <li>Consulting-style roadmap clarity (not just tech tasks)</li>
+        </ul>
       </section>
     </main>
   );

@@ -1,8 +1,17 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Resume",
+  description:
+    "Resume of Kesler Aristide-Bonheur — Manufacturing and MES-focused professional with experience across GMP operations, digital manufacturing systems, and IT/OT integration.",
+};
+
+const resumePdfPath = "/Kesler_Aristide_Bonheur_Resume.pdf";
+
 export default function ResumePage() {
   return (
     <main className="min-h-screen bg-black text-white px-6 py-20">
       <div className="max-w-4xl mx-auto space-y-12">
-
         {/* HEADER */}
         <section className="space-y-4">
           <h1 className="text-4xl md:text-5xl font-semibold tracking-tight">
@@ -19,18 +28,43 @@ export default function ResumePage() {
         <section className="rounded-xl border border-gray-800 p-8 space-y-4">
           <h2 className="text-2xl font-medium">Download</h2>
 
+          <p className="text-gray-400">PDF version of my resume:</p>
+
+          <div className="flex flex-wrap gap-3">
+            <a
+              href={resumePdfPath}
+              target="_blank"
+              rel="noreferrer"
+              className="inline-block px-6 py-3 rounded-lg bg-white text-black font-medium hover:bg-gray-200 transition"
+            >
+              Open / Download Resume (PDF)
+            </a>
+
+            <a
+              href={resumePdfPath}
+              download
+              className="inline-block px-6 py-3 rounded-lg border border-gray-700 text-white font-medium hover:bg-white/5 transition"
+            >
+              Download (direct)
+            </a>
+          </div>
+        </section>
+
+        {/* PREVIEW */}
+        <section className="rounded-xl border border-gray-800 p-6 space-y-4 bg-black/30">
+          <h2 className="text-2xl font-medium">Preview</h2>
           <p className="text-gray-400">
-            PDF version of my resume:
+            If the preview doesn’t load on your device, use the download button above.
           </p>
 
-          <a
-            href="/Kesler_Aristide-Bonheur_Resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block px-6 py-3 rounded-lg bg-white text-black font-medium hover:bg-gray-200 transition"
-          >
-            Download Resume (PDF)
-          </a>
+          <div className="w-full overflow-hidden rounded-xl border border-gray-800">
+            <iframe
+              title="Kesler Aristide-Bonheur Resume PDF"
+              src={resumePdfPath}
+              className="w-full"
+              style={{ height: "900px", border: "0" }}
+            />
+          </div>
         </section>
 
         {/* HIGHLIGHTS */}
@@ -79,7 +113,6 @@ export default function ResumePage() {
             </div>
           </div>
         </section>
-
       </div>
     </main>
   );

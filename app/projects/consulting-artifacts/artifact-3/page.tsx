@@ -1,63 +1,81 @@
+import type { Metadata } from "next";
 import Link from "next/link";
-import Image from "next/image";
+
+export const metadata: Metadata = {
+  title: "Artifact 3 — Digital Manufacturing Blueprint",
+  description:
+    "A value-focused digital manufacturing blueprint highlighting MES architecture and execution impact.",
+};
+
+const pdf = "/consulting-artifacts/value-case.pdf";
+const img = "/consulting-artifacts/value-case.png";
 
 export default function Artifact3Page() {
   return (
-    <main className="mx-auto max-w-5xl px-6 py-14">
-      <header className="mb-10">
+    <main className="mx-auto max-w-5xl px-6 py-16 space-y-10">
+      <header className="space-y-4">
         <p className="text-sm text-gray-400">
-          <Link href="/projects/consulting-artifacts" className="underline hover:text-white">
-            ← Back to Consulting Artifacts
-          </Link>
+          <Link
+            href="/projects/consulting-artifacts"
+            className="underline hover:text-white"
+          >
+            Consulting Artifacts
+          </Link>{" "}
+          / Artifact 3
         </p>
 
-        <h1 className="mt-4 text-4xl font-semibold tracking-tight">
+        <h1 className="text-4xl font-semibold tracking-tight">
           Artifact 3 — Digital Manufacturing Blueprint
         </h1>
-        <p className="mt-3 text-gray-400 leading-relaxed">
-          A portfolio-style blueprint showing scope, current-state reality, and execution goals for MES-enabled
-          operations in regulated manufacturing.
-        </p>
 
-        <div className="mt-5 flex flex-wrap gap-2 text-sm text-gray-400">
-          {["Blueprint", "Scope", "Execution Model"].map((tag) => (
-            <span key={tag} className="rounded-full border border-gray-800 px-3 py-1">
-              {tag}
-            </span>
-          ))}
-        </div>
+        <p className="text-gray-300 max-w-3xl">
+          A portfolio-style blueprint showing scope, system layers, and execution
+          goals for MES-enabled operations in regulated manufacturing.
+        </p>
       </header>
 
-      <section className="space-y-6">
-        <div className="rounded-2xl border border-gray-800 bg-black/30 p-6">
-          <h2 className="text-2xl font-medium">Blueprint visual</h2>
-          <p className="mt-2 text-gray-400">Click to open full-size.</p>
+      {/* ACTIONS */}
+      <section className="flex flex-wrap gap-3">
+        <a
+          href={pdf}
+          target="_blank"
+          rel="noreferrer"
+          className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"
+        >
+          View PDF →
+        </a>
 
-          <a
-            href="/artifacts/artifact-3.png"
-            target="_blank"
-            rel="noreferrer"
-            className="mt-4 block overflow-hidden rounded-xl border border-gray-900 bg-black/40"
-          >
-            <Image
-              src="/artifacts/artifact-3.png"
-              alt="Digital manufacturing blueprint document"
-              width={1800}
-              height={1100}
-              className="h-auto w-full object-contain"
-              priority
-            />
-          </a>
-        </div>
+        <a
+          href={pdf}
+          download
+          className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"
+        >
+          Download PDF
+        </a>
+      </section>
 
-        <div className="rounded-2xl border border-gray-800 bg-black/30 p-6">
-          <h2 className="text-2xl font-medium">What this demonstrates</h2>
-          <ul className="mt-3 list-disc space-y-2 pl-5 text-gray-400">
-            <li>Structured consulting thinking: objective → scope → current state → target direction</li>
-            <li>Clear mapping between execution pain and system-enabled improvement</li>
-            <li>Communication that’s readable for both ops and leadership</li>
-          </ul>
-        </div>
+      {/* VISUAL */}
+      <section className="rounded-2xl border border-gray-800 bg-black/30 p-6 space-y-4">
+        <h2 className="text-xl font-medium">Blueprint visual</h2>
+        <p className="text-gray-400">Click to open full-size.</p>
+
+        <a href={img} target="_blank" rel="noreferrer">
+          <img
+            src={img}
+            alt="Digital Manufacturing Architecture Blueprint"
+            className="rounded-xl border border-gray-800"
+          />
+        </a>
+      </section>
+
+      {/* WHAT IT SHOWS */}
+      <section className="rounded-2xl border border-gray-800 bg-black/30 p-6 space-y-3">
+        <h2 className="text-xl font-medium">What this demonstrates</h2>
+        <ul className="list-disc pl-5 space-y-2 text-gray-400">
+          <li>Enterprise → Execution → Control → Data architecture clarity</li>
+          <li>MES positioned as the operational system of record</li>
+          <li>Clear linkage between system design and execution outcomes</li>
+        </ul>
       </section>
     </main>
   );

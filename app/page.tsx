@@ -1,7 +1,28 @@
-// deploy bump
-
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Home",
+  description:
+    "Kesler Aristide-Bonheur — Digital Manufacturing, MES, and Systems Thinking. I design, diagnose, and improve manufacturing execution systems in regulated environments.",
+  openGraph: {
+    title: "Kesler Aristide-Bonheur",
+    description:
+      "Digital Manufacturing, MES, and Systems Thinking. I design, diagnose, and improve manufacturing execution systems in regulated environments.",
+    url: "https://kes-site.vercel.app",
+    siteName: "Kesler Aristide-Bonheur",
+    images: [{ url: "/opengraph-image" }],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Kesler Aristide-Bonheur",
+    description:
+      "Digital Manufacturing, MES, and Systems Thinking. I design, diagnose, and improve manufacturing execution systems in regulated environments.",
+    images: ["/twitter-image"],
+  },
+};
 
 export default function HomePage() {
   return (
@@ -9,7 +30,7 @@ export default function HomePage() {
       <div className="max-w-2xl space-y-6">
         <Image
           src="/headshot.png"
-          alt="Kesler Bonheur"
+          alt="Kesler Aristide-Bonheur"
           width={220}
           height={220}
           className="rounded-full mx-auto"
@@ -17,7 +38,7 @@ export default function HomePage() {
         />
 
         <h1 className="text-4xl font-bold tracking-tight">
-          Kesler Bonheur
+          Kesler Aristide-Bonheur
         </h1>
 
         <p className="text-lg text-gray-400">
@@ -37,12 +58,14 @@ export default function HomePage() {
             View Consulting Artifacts →
           </Link>
 
-          <Link
-            href="/resume"
+          <a
+            href="/Kesler_Aristide_Bonheur_Resume.pdf"
+            target="_blank"
+            rel="noreferrer"
             className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"
           >
             Resume
-          </Link>
+          </a>
         </div>
       </div>
     </main>
