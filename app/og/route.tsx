@@ -14,7 +14,7 @@ export function GET() {
           justifyContent: "center",
           padding: 72,
           backgroundColor: "#0b0b0f",
-          color: "white",
+          color: "#ffffff",
           fontFamily: "Arial",
         }}
       >
@@ -39,6 +39,7 @@ export function GET() {
           >
             MES Execution
           </div>
+
           <div
             style={{
               padding: "10px 14px",
@@ -51,6 +52,7 @@ export function GET() {
           >
             GMP / CSV
           </div>
+
           <div
             style={{
               padding: "10px 14px",
@@ -63,6 +65,7 @@ export function GET() {
           >
             ISA-95
           </div>
+
           <div
             style={{
               padding: "10px 14px",
@@ -75,6 +78,7 @@ export function GET() {
           >
             ERP ↔ MES ↔ Automation
           </div>
+
           <div
             style={{
               padding: "10px 14px",
