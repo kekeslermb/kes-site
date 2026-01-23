@@ -1,60 +1,69 @@
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
-import type { Metadata } from "next";
-import { Analytics } from "@vercel/analytics/react";
-import { SpeedInsights } from "@vercel/speed-insights/next";
+import Navbar from "@/components/Navbar";
 
-const SITE_NAME = "Kesler Bonheur";
-const SITE_DESCRIPTION =
-  "Digital manufacturing and systems portfolio. MES, integration, execution models, and consulting-style artifacts for regulated manufacturing.";
+const siteUrl = "https://kes-site.vercel.app";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://kes-site-kz6thmox1-kesler-s-projects.vercel.app"),
+  metadataBase: new URL(siteUrl),
   title: {
-    default: `${SITE_NAME} — Digital Manufacturing & Systems`,
-    template: `%s — ${SITE_NAME}`,
+    default: "Kesler Aristide-Bonheur",
+    template: "%s | Kesler Aristide-Bonheur",
   },
-  description: SITE_DESCRIPTION,
-  applicationName: SITE_NAME,
-  keywords: [
-    "Digital Manufacturing",
-    "MES",
-    "Systems",
-    "PAS-X",
-    "Syncade",
-    "DeltaV",
-    "GMP",
-    "CSV",
-    "21 CFR Part 11",
-    "ISA-95",
-    "Integration",
-    "Manufacturing Execution",
-  ],
-  authors: [{ name: SITE_NAME }],
-  creator: SITE_NAME,
+  description:
+    "Kesler Aristide-Bonheur — Digital Manufacturing & MES professional focused on systems, compliance, and production execution.",
+  alternates: {
+    canonical: siteUrl,
+  },
   openGraph: {
     type: "website",
-    url: "/",
-    title: `${SITE_NAME} — Digital Manufacturing & Systems`,
-    description: SITE_DESCRIPTION,
-    siteName: SITE_NAME,
-    images: [{ url: "/og", width: 1200, height: 630, alt: `${SITE_NAME} portfolio` }],
+    url: siteUrl,
+    siteName: "Kesler Aristide-Bonheur",
+    title: "Kesler Aristide-Bonheur",
+    description:
+      "Digital Manufacturing & MES professional focused on systems, compliance, and production execution.",
+    images: [
+      {
+        url: "/opengraph-image",
+        width: 1200,
+        height: 630,
+        alt: "Kesler Aristide-Bonheur",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE_NAME} — Digital Manufacturing & Systems`,
-    description: SITE_DESCRIPTION,
-    images: ["/og"],
+    title: "Kesler Aristide-Bonheur",
+    description:
+      "Digital Manufacturing & MES professional focused on systems, compliance, and production execution.",
+    images: ["/twitter-image"],
   },
-  alternates: { canonical: "/" },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export const viewport: Viewport = {
+  themeColor: "#0B0F19",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="en">
-      <body>
-        {children}
-        <Analytics />
-        <SpeedInsights />
+      <body
+        style={{
+          margin: 0,
+          background: "#0B0F19",
+          color: "white",
+        }}
+      >
+        <Navbar />
+        <main>{children}</main>
       </body>
     </html>
   );
