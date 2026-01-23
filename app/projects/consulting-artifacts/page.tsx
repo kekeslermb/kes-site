@@ -1,4 +1,18 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Artifact 3 — Blueprint",
+  description:
+    "Blueprint outlining objective, scope, and execution model for MES-enabled operations in regulated manufacturing.",
+};
+
+export const metadata: Metadata = {
+  title: "Consulting Artifacts",
+  description:
+    "Consulting-style artifacts demonstrating systems thinking, execution models, and measurable digital manufacturing impact.",
+};
 
 const artifacts = [
   {

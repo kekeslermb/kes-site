@@ -1,5 +1,12 @@
 import Link from "next/link";
 import Image from "next/image";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Artifact 1 — Architecture",
+  description:
+    "Digital manufacturing architecture showing how ERP, MES, automation, and data layers connect (ISA-95 style thinking).",
+};
 
 export default function Artifact1Page() {
   return (

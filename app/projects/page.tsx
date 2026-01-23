@@ -1,5 +1,12 @@
 import Link from "next/link";
 import { projects } from "./projects-data";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Projects",
+  description:
+    "Projects and portfolio work across MES, systems integration, and digital manufacturing execution.",
+};
 
 export default function ProjectsPage() {
   return (

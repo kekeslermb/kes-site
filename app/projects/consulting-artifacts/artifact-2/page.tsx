@@ -1,5 +1,12 @@
 import Link from "next/link";
 import Image from "next/image";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Artifact 2 — Value Case",
+  description:
+    "Value case mapping current-state pain points to target-state improvements and measurable impact KPIs.",
+};
 
 export default function Artifact2Page() {
   return (

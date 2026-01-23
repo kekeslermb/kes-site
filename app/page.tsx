@@ -1,4 +1,11 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Home",
+  description:
+    "Digital manufacturing and systems portfolio: MES, integration thinking, and consulting-style artifacts built for regulated manufacturing.",
+};
 
 const artifacts = [
   {
