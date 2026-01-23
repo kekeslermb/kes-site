@@ -6,23 +6,9 @@ export const metadata: Metadata = {
   title: "Home",
   description:
     "Kesler Aristide-Bonheur — Digital Manufacturing, MES, and Systems Thinking. I design, diagnose, and improve manufacturing execution systems in regulated environments.",
-  openGraph: {
-    title: "Kesler Aristide-Bonheur",
-    description:
-      "Digital Manufacturing, MES, and Systems Thinking. I design, diagnose, and improve manufacturing execution systems in regulated environments.",
-    url: "https://kes-site.vercel.app",
-    siteName: "Kesler Aristide-Bonheur",
-    images: [{ url: "/opengraph-image" }],
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Kesler Aristide-Bonheur",
-    description:
-      "Digital Manufacturing, MES, and Systems Thinking. I design, diagnose, and improve manufacturing execution systems in regulated environments.",
-    images: ["/twitter-image"],
-  },
 };
+
+const resumePdfPath = "/Kesler_Aristide_Bonheur_Resume.pdf";
 
 export default function HomePage() {
   return (
@@ -59,7 +45,7 @@ export default function HomePage() {
           </Link>
 
           <a
-            href="/Kesler_Aristide_Bonheur_Resume.pdf"
+            href={resumePdfPath}
             target="_blank"
             rel="noreferrer"
             className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"

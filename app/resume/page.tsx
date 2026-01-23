@@ -48,16 +48,20 @@ export default function ResumePage() {
               Download (direct)
             </a>
           </div>
+
+          <p className="text-xs text-gray-500">
+            If you ever rename the PDF, the link must match the filename exactly (case + underscores).
+          </p>
         </section>
 
         {/* PREVIEW */}
         <section className="rounded-xl border border-gray-800 p-6 space-y-4 bg-black/30">
           <h2 className="text-2xl font-medium">Preview</h2>
           <p className="text-gray-400">
-            If the preview doesn’t load on your device, use the download button above.
+            If the preview doesn’t load on your device, use the download buttons above.
           </p>
 
-          <div className="w-full overflow-hidden rounded-xl border border-gray-800">
+          <div className="w-full overflow-hidden rounded-xl border border-gray-800 bg-black">
             <iframe
               title="Kesler Aristide-Bonheur Resume PDF"
               src={resumePdfPath}
