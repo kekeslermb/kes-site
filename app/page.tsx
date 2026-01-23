@@ -5,11 +5,10 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Home",
   description:
-    "Kesler Aristide-Bonheur — Digital Manufacturing, MES, and Systems Thinking. I design, diagnose, and improve manufacturing execution systems in regulated environments.",
+    "Kesler Aristide-Bonheur — Digital Manufacturing, MES, and Systems Thinking.",
 };
 
-const resumePdfPath =
-  "/consulting-artifacts/Kesler_Aristide-Bonheur_Resume.pdf";
+const RESUME_URL = "/consulting-artifacts/resume.pdf";
 
 export default function HomePage() {
   return (
@@ -46,7 +45,7 @@ export default function HomePage() {
           </Link>
 
           <a
-            href={resumePdfPath}
+            href={RESUME_URL}
             target="_blank"
             rel="noreferrer"
             className="rounded-lg border border-gray-700 px-4 py-2 hover:bg-white/5"
