@@ -6,7 +6,8 @@ export const metadata: Metadata = {
     "Resume of Kesler Aristide-Bonheur — Manufacturing and MES-focused professional with experience across GMP operations, digital manufacturing systems, and IT/OT integration.",
 };
 
-const resumePdfPath = "/consulting-artifacts/Kesler_Aristide_Bonheur_Resume.pdf";
+const resumePdfPath =
+  "/consulting-artifacts/Kesler_Aristide-Bonheur_Resume.pdf";
 
 export default function ResumePage() {
   return (
