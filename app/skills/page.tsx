@@ -1,40 +1,141 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Skills",
+  description:
+    "MES, digital manufacturing, GMP, systems integration, validation, compliance, and shop-floor execution skills.",
+};
+
+const groups = [
+  {
+    code: "01",
+    title: "MES & Digital Manufacturing",
+    signal: "Execution systems",
+    items: [
+      "PAS-X MES",
+      "Syncade exposure",
+      "MES authoring concepts",
+      "EBR workflows",
+      "Recipe logic and exception handling",
+      "Digital manufacturing operations",
+    ],
+  },
+  {
+    code: "02",
+    title: "Manufacturing & GMP",
+    signal: "Regulated operations",
+    items: [
+      "Regulated GMP manufacturing",
+      "Shop-floor execution",
+      "Batch execution mindset",
+      "Deviations and exceptions",
+      "ALCOA+ data integrity",
+      "Operator-centered workflow thinking",
+    ],
+  },
+  {
+    code: "03",
+    title: "Systems, Data & Integration",
+    signal: "Connected plant",
+    items: [
+      "DeltaV context",
+      "ERP / MES / SCADA concepts",
+      "SQL for troubleshooting",
+      "APIs and data flows",
+      "ISA-95 language",
+      "Systems thinking",
+    ],
+  },
+  {
+    code: "04",
+    title: "Validation, Quality & Compliance",
+    signal: "Audit ready",
+    items: [
+      "GMP/CSV thinking",
+      "Change control mindset",
+      "Audit-ready documentation habits",
+      "URS/FRS/IQ/OQ/PQ lifecycle basics",
+      "Quality-first execution",
+    ],
+  },
+  {
+    code: "05",
+    title: "Leadership & Shop-Floor Execution",
+    signal: "Operational clarity",
+    items: [
+      "Cross-functional communication",
+      "Manufacturing systems troubleshooting",
+      "Issue framing and escalation",
+      "Operations-to-systems translation",
+      "Practical execution leadership",
+    ],
+  },
+  {
+    code: "06",
+    title: "Professional Development",
+    signal: "Forward path",
+    items: [
+      "Building toward MES authoring",
+      "Pursuing PMP certification",
+      "Pursuing AWS Solutions Architect Associate",
+      "Consulting-style problem framing",
+      "Continuous digital manufacturing growth",
+    ],
+  },
+];
+
 export default function SkillsPage() {
-  const groups = [
-    {
-      title: "Manufacturing & GMP",
-      items: ["eBR/eDHR execution", "Deviations & exceptions", "Batch execution mindset", "ALCOA+ data integrity"],
-    },
-    {
-      title: "MES & Digital",
-      items: ["PAS-X (current)", "Syncade (exposure)", "Authoring concepts", "Recipe logic & exception handling"],
-    },
-    {
-      title: "Systems & Integration",
-      items: ["ERP ↔ MES ↔ SCADA concepts", "SQL for troubleshooting", "APIs & data flows", "ISA-95 language"],
-    },
-    {
-      title: "Infrastructure & Validation",
-      items: ["Dev/Test/Prod environments", "Change control mindset", "CSV lifecycle basics (URS/FRS/IQ/OQ/PQ)", "Windows fundamentals"],
-    },
-  ];
-
   return (
-    <main className="min-h-screen bg-black text-white px-6 py-16">
-      <div className="max-w-5xl mx-auto space-y-10">
-        <h1 className="text-4xl font-bold">Skills</h1>
+    <main className="cinematic-shell px-6 py-24 text-white">
+      <div className="blueprint-grid" />
+      <div className="light-sweep" />
 
-        <div className="grid gap-6 md:grid-cols-2">
-          {groups.map((g) => (
-            <div key={g.title} className="rounded-xl border border-gray-800 p-6">
-              <h2 className="text-xl font-semibold">{g.title}</h2>
-              <ul className="mt-4 space-y-2 text-gray-300 list-disc pl-5">
-                {g.items.map((item) => (
-                  <li key={item}>{item}</li>
+      <div className="relative mx-auto max-w-7xl space-y-14">
+        <header className="animate-fade-up max-w-4xl space-y-5">
+          <div className="section-label">Capability Matrix</div>
+          <h1 className="text-5xl font-semibold leading-[0.98] tracking-tight md:text-7xl">
+            Skills built for the manufacturing systems layer.
+          </h1>
+          <p className="max-w-3xl text-xl leading-9 text-slate-300">
+            A practical mix of MES, GMP operations, systems integration,
+            validation thinking, and shop-floor leadership.
+          </p>
+        </header>
+
+        <section className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
+          {groups.map((group, index) => (
+            <article
+              key={group.title}
+              className="luxury-border metal-card shimmer-line group animate-fade-up rounded-[1.65rem] p-6 transition duration-500 hover:-translate-y-2 hover:scale-[1.01] hover:shadow-[0_32px_100px_rgba(34,211,238,0.14)]"
+              style={{ animationDelay: `${index * 75}ms` }}
+            >
+              <div className="flex items-start justify-between gap-4">
+                <div>
+                  <p className="text-xs font-bold uppercase tracking-[0.24em] text-cyan-200">
+                    {group.signal}
+                  </p>
+                  <h2 className="mt-4 text-2xl font-semibold leading-tight">
+                    {group.title}
+                  </h2>
+                </div>
+                <span className="rounded-full border border-white/10 bg-white/[0.055] px-3 py-2 text-xs font-bold text-slate-300">
+                  {group.code}
+                </span>
+              </div>
+
+              <div className="my-6 h-px bg-gradient-to-r from-cyan-200/50 via-white/10 to-transparent" />
+
+              <ul className="space-y-3 text-sm leading-6 text-slate-300">
+                {group.items.map((item) => (
+                  <li key={item} className="flex gap-3">
+                    <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-gradient-to-r from-cyan-200 to-amber-100" />
+                    <span>{item}</span>
+                  </li>
                 ))}
               </ul>
-            </div>
+            </article>
           ))}
-        </div>
+        </section>
       </div>
     </main>
   );
