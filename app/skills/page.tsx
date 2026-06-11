@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Skills",
   description:
-    "MES, digital manufacturing, GMP, systems integration, validation, compliance, and shop-floor execution skills.",
+    "PMP-certified Digital Manufacturing & MES skills across PAS-X, Syncade, GMP, EBR workflows, CSV, pharma manufacturing systems, and manufacturing systems integration.",
 };
 
 const groups = [
@@ -76,10 +76,11 @@ const groups = [
     signal: "Forward path",
     items: [
       "Building toward MES authoring",
-      "Pursuing PMP certification",
+      "Project Management Professional (PMP)® certified",
       "Pursuing AWS Solutions Architect Associate",
-      "Consulting-style problem framing",
-      "Continuous digital manufacturing growth",
+      "Security+ foundation",
+      "Lean Six Sigma / process improvement",
+      "Cloud-enabled manufacturing systems",
     ],
   },
 ];
@@ -97,8 +98,9 @@ export default function SkillsPage() {
             Skills built for the manufacturing systems layer.
           </h1>
           <p className="max-w-3xl text-xl leading-9 text-slate-300">
-            A practical mix of MES, GMP operations, systems integration,
-            validation thinking, and shop-floor leadership.
+            A practical mix of PMP-certified project delivery, MES, GMP
+            operations, systems integration, validation thinking, and
+            shop-floor leadership.
           </p>
         </header>
 

@@ -5,7 +5,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Home",
   description:
-    "Kesler Aristide-Bonheur - MES & Digital Manufacturing Professional focused on PAS-X, Syncade, DeltaV, GMP manufacturing, and systems integration.",
+    "Kesler Aristide-Bonheur, MBA, PMP - PMP-certified Digital Manufacturing & MES Professional focused on PAS-X, Syncade, GMP, EBR workflows, CSV, pharma manufacturing systems, and manufacturing systems integration.",
 };
 
 const RESUME_URL = "/consulting-artifacts/resume.pdf";
@@ -13,11 +13,13 @@ const RESUME_URL = "/consulting-artifacts/resume.pdf";
 const focusAreas = [
   "PAS-X",
   "Syncade",
+  "PMP",
   "DeltaV",
   "GMP manufacturing",
   "EBR workflows",
+  "CSV",
   "Shop-floor execution",
-  "MES troubleshooting",
+  "Pharma Manufacturing Systems",
   "Manufacturing systems integration",
 ];
 
@@ -56,19 +58,19 @@ export default function HomePage() {
 
           <div className="space-y-6">
             <p className="text-sm font-semibold uppercase tracking-[0.35em] text-cyan-100/80">
-              MES & Digital Manufacturing Professional
+              PMP-Certified Digital Manufacturing & MES Professional
             </p>
             <h1 className="max-w-5xl text-6xl font-semibold leading-[0.92] tracking-tight md:text-8xl xl:text-9xl">
               Kesler{" "}
               <span className="block bg-gradient-to-r from-white via-cyan-100 to-amber-100 bg-clip-text text-transparent">
-                Aristide-Bonheur
+                Aristide-Bonheur, MBA, PMP
               </span>
             </h1>
             <p className="max-w-2xl text-xl leading-9 text-slate-300 md:text-2xl">
-              I work where regulated manufacturing, MES execution, and digital
-              systems meet: PAS-X, Syncade, DeltaV, GMP manufacturing, EBR
-              workflows, shop-floor execution, and manufacturing systems
-              integration.
+              I work where regulated manufacturing, MES execution, project
+              delivery, and digital systems meet: PAS-X, Syncade, DeltaV, GMP
+              manufacturing, EBR workflows, shop-floor execution, and
+              manufacturing systems integration.
             </p>
           </div>
 

@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "About Kesler Aristide-Bonheur - MES, digital manufacturing systems, shop-floor execution, GMP/CSV thinking, and manufacturing systems integration.",
+    "About Kesler Aristide-Bonheur, MBA, PMP - PMP-certified Digital Manufacturing & MES professional focused on PAS-X, Syncade, GMP, EBR workflows, CSV, pharma manufacturing systems, and manufacturing systems integration.",
 };
 
 const profileCards = [
@@ -18,14 +18,14 @@ const profileCards = [
     body: "Actively developing toward recipe, workflow, exception, and configuration ownership in modern MES environments.",
   },
   {
-    label: "Pursuing",
-    title: "PMP certification",
-    body: "Strengthening delivery discipline, stakeholder communication, and structured execution for manufacturing systems work.",
+    label: "Certified",
+    title: "Project Management Professional (PMP)®",
+    body: "Project Management Professional (PMP)® certified, strengthening structured delivery, stakeholder communication, project execution, and leadership across manufacturing systems, MES, EBR, and digital transformation work.",
   },
   {
     label: "Pursuing",
     title: "AWS Solutions Architect Associate",
-    body: "Building cloud architecture fluency to support digital manufacturing, integration, and scalable systems thinking.",
+    body: "Building cloud architecture fluency to support digital manufacturing, integration, scalable systems thinking, and future cloud-enabled manufacturing transformation.",
   },
   {
     label: "Focus",
@@ -51,11 +51,11 @@ export default function AboutPage() {
 
           <div className="glow-card luxury-border rounded-[2rem] p-7 md:p-9">
             <p className="text-xl leading-9 text-slate-300">
-              I am a MES & Digital Manufacturing Professional currently working
-              with PAS-X MES and DeltaV in a regulated GMP manufacturing
-              environment. My direction is clear: build toward MES authoring,
-              lead with shop-floor context, and help manufacturing systems
-              become more reliable, usable, and audit-ready.
+              I am a PMP-certified Digital Manufacturing & MES Professional
+              currently working with PAS-X MES and DeltaV in a regulated GMP
+              manufacturing environment. My direction is clear: build deeper MES
+              authoring fluency, lead with shop-floor context, and help pharma
+              manufacturing systems become more reliable, usable, and audit-ready.
             </p>
           </div>
         </header>
@@ -103,6 +103,7 @@ export default function AboutPage() {
                 "Shop-floor MES leadership",
                 "GMP/CSV thinking",
                 "Manufacturing systems integration",
+                "PMP-certified project delivery",
               ].map((item) => (
                 <div
                   key={item}

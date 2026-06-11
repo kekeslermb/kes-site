@@ -3,39 +3,40 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 
 const siteUrl = "https://kes-site.vercel.app";
+const siteTitle =
+  "Kesler Aristide-Bonheur, MBA, PMP | Digital Manufacturing & MES Professional";
+const siteDescription =
+  "PMP-certified Digital Manufacturing & MES professional with experience across PAS-X, Syncade, GMP manufacturing, EBR workflows, pharma manufacturing systems, and manufacturing systems integration.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Kesler Aristide-Bonheur",
-    template: "%s | Kesler Aristide-Bonheur",
+    default: siteTitle,
+    template: "%s | Kesler Aristide-Bonheur, MBA, PMP",
   },
-  description:
-    "Kesler Aristide-Bonheur — Digital Manufacturing & MES professional focused on systems, compliance, and production execution.",
+  description: siteDescription,
   alternates: {
     canonical: siteUrl,
   },
   openGraph: {
     type: "website",
     url: siteUrl,
-    siteName: "Kesler Aristide-Bonheur",
-    title: "Kesler Aristide-Bonheur",
-    description:
-      "Digital Manufacturing & MES professional focused on systems, compliance, and production execution.",
+    siteName: "Kesler Aristide-Bonheur, MBA, PMP",
+    title: siteTitle,
+    description: siteDescription,
     images: [
       {
         url: "/opengraph-image",
         width: 1200,
         height: 630,
-        alt: "Kesler Aristide-Bonheur",
+        alt: "Kesler Aristide-Bonheur, MBA, PMP",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Kesler Aristide-Bonheur",
-    description:
-      "Digital Manufacturing & MES professional focused on systems, compliance, and production execution.",
+    title: siteTitle,
+    description: siteDescription,
     images: ["/twitter-image"],
   },
   robots: {

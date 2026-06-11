@@ -3,15 +3,15 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Contact Kesler Aristide-Bonheur - MES, Digital Manufacturing, and manufacturing systems work in regulated environments.",
+    "Contact Kesler Aristide-Bonheur, MBA, PMP - PMP-certified Digital Manufacturing & MES professional for MES, pharma manufacturing systems, and manufacturing systems integration work.",
 };
 
 const email = "kesleraristide@gmail.com";
 
 const opportunities = [
-  "Recruiters hiring for MES and digital manufacturing roles",
+  "Recruiters hiring for PMP-certified MES and digital manufacturing roles",
   "Teams modernizing EBR workflows and shop-floor execution",
-  "Manufacturing systems, validation, and integration partners",
+  "Pharma manufacturing systems, validation, and integration partners",
   "Consulting conversations around GMP manufacturing systems",
 ];
 
@@ -29,8 +29,9 @@ export default function ContactPage() {
           </h1>
           <p className="max-w-3xl text-xl leading-9 text-slate-300">
             Open to conversations with recruiters, MES consulting teams, digital
-            manufacturing groups, and systems roles focused on GMP execution,
-            PAS-X, DeltaV, EBR workflows, and integration.
+            manufacturing groups, and systems roles focused on PMP-certified
+            project delivery, GMP execution, PAS-X, Syncade, EBR workflows,
+            CSV, and manufacturing systems integration.
           </p>
 
           <div className="grid gap-3 sm:grid-cols-2">

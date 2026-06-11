@@ -38,10 +38,10 @@ export default function Navbar() {
       >
         <Link href="/" style={{ textDecoration: "none", color: "white" }}>
           <div style={{ fontWeight: 800 }}>
-            Kesler Aristide-Bonheur
+            Kesler Aristide-Bonheur, MBA, PMP
           </div>
           <div style={{ fontSize: 12, opacity: 0.7 }}>
-            Digital Manufacturing • MES • Systems
+            PMP-Certified Digital Manufacturing & MES
           </div>
         </Link>
 

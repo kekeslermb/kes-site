@@ -19,11 +19,14 @@ export default function TwitterImage() {
           color: "white",
         }}
       >
-        <div style={{ fontSize: 62, fontWeight: 800, lineHeight: 1.05 }}>
-          Kesler Aristide-Bonheur
+        <div style={{ fontSize: 60, fontWeight: 800, lineHeight: 1.05 }}>
+          Kesler Aristide-Bonheur, MBA, PMP
         </div>
         <div style={{ marginTop: 18, fontSize: 28, opacity: 0.9 }}>
-          Digital Manufacturing • MES • Systems
+          PMP-Certified Digital Manufacturing & MES
+        </div>
+        <div style={{ marginTop: 28, fontSize: 18, opacity: 0.7 }}>
+          Pharma Manufacturing Systems | Manufacturing Systems Integration
         </div>
       </div>
     ),

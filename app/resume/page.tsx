@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Resume",
   description:
-    "Resume of Kesler Aristide-Bonheur - MES & Digital Manufacturing Professional.",
+    "Resume of Kesler Aristide-Bonheur, MBA, PMP - PMP-certified Digital Manufacturing & MES Professional.",
 };
 
 const RESUME_URL = "/consulting-artifacts/resume.pdf";
@@ -26,8 +26,8 @@ export default function ResumePage() {
           <div className="glow-card luxury-border rounded-[2rem] p-7 md:p-9">
             <p className="text-xl leading-9 text-slate-300">
               A concise view of experience across GMP manufacturing, PAS-X,
-              DeltaV, EBR workflows, shop-floor execution, MES troubleshooting,
-              and manufacturing systems integration.
+              Syncade, EBR workflows, MES troubleshooting, PMP-certified project
+              delivery, and manufacturing systems integration.
             </p>
 
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
