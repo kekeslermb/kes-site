@@ -6,16 +6,22 @@ export type Project = {
   summary: string;
   tags: string[];
   href: string;
+  liveDemoHref?: string;
+  sourceNote?: string;
+  featured?: boolean;
 };
 
 export const projects: Project[] = [
   {
     slug: "simplemes",
-    title: "SimpleMES (Portfolio Build)",
+    title: "SimpleMES Manufacturing OS",
     summary:
-      "A lightweight MES-style portfolio system demonstrating workflow execution, status tracking, and compliance-minded design.",
-    tags: ["MES", "Digital Manufacturing", "Systems"],
+      "A completed pharma/biotech MES portfolio simulation demonstrating EBR execution, GMP-style auditability, QC/LIMS visibility, guided operator corrections, scheduling, shift handoff, change control, and SOP/training readiness.",
+    tags: ["MES", "Digital Manufacturing", "GMP", "EBR", "QA", "QC/LIMS", "Next.js", "TypeScript", "Prisma"],
     href: "/projects/simplemes",
+    liveDemoHref: "https://simplemes-manufacturing-os.vercel.app",
+    sourceNote: "Source code private; available upon request for hiring/review purposes.",
+    featured: true,
   },
   {
     slug: "consulting-artifacts",

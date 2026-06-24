@@ -72,12 +72,27 @@ export default function HomePage() {
               manufacturing, EBR workflows, shop-floor execution, and
               manufacturing systems integration.
             </p>
+            <div className="max-w-2xl rounded-2xl border border-cyan-200/20 bg-cyan-200/[0.055] p-4 text-sm leading-6 text-cyan-50">
+              <span className="font-semibold text-white">
+                Featured build: SimpleMES Manufacturing OS
+              </span>{" "}
+              - a modern MES portfolio project demonstrating EBR execution,
+              GMP-style auditability, QC/LIMS visibility, and operator-friendly
+              digital manufacturing workflows.
+            </div>
           </div>
 
           <div className="flex flex-col gap-3 sm:flex-row">
             <Link
-              href="/projects/consulting-artifacts"
+              href="/projects/simplemes"
               className="luxury-border rounded-full bg-cyan-200 px-7 py-4 text-center text-sm font-bold uppercase tracking-[0.16em] text-slate-950 shadow-[0_0_50px_rgba(34,211,238,0.26)] transition duration-300 hover:-translate-y-1 hover:scale-[1.01] hover:bg-white"
+            >
+              View SimpleMES
+            </Link>
+
+            <Link
+              href="/projects/consulting-artifacts"
+              className="luxury-border rounded-full bg-white/[0.055] px-7 py-4 text-center text-sm font-bold uppercase tracking-[0.16em] text-white backdrop-blur transition duration-300 hover:-translate-y-1 hover:bg-white/10"
             >
               View Artifacts
             </Link>
