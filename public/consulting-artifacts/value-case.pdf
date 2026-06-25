@@ -3,145 +3,556 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 6 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 4653 >>
+<< /Length 4913 >>
 stream
 0.043 0.082 0.141 rg 0 520 792 92 re f
 0.059 0.463 0.431 rg 0 512 792 8 re f
-0.88 0.98 0.96 rg BT /F2 9 Tf 50 575 Td (PORTFOLIO ARTIFACT 03) Tj ET
-1 1 1 rg BT /F2 24 Tf 50 550 Td (Digital Manufacturing Value Case & KPI Impact Model) Tj ET
-0.88 0.98 0.96 rg BT /F1 11 Tf 50 530 Td (Directional executive value case for MES-enabled operations) Tj ET
-0.88 0.98 0.96 rg BT /F1 8 Tf 600 574 Td (Kesler Aristide-Bonheur, MBA, PMP) Tj ET
-0.91 0.96 0.95 rg 50 486 72 20 re f
-0.75 0.86 0.84 RG 50 486 72 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 60 492 Td (Value Case) Tj ET
-0.91 0.96 0.95 rg 130 486 40.8 20 re f
-0.75 0.86 0.84 RG 130 486 40.8 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 140 492 Td (KPIs) Tj ET
-0.91 0.96 0.95 rg 178.8 486 35.6 20 re f
-0.75 0.86 0.84 RG 178.8 486 35.6 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 188.8 492 Td (ROI) Tj ET
-0.91 0.96 0.95 rg 222.4 486 108.4 20 re f
-0.75 0.86 0.84 RG 222.4 486 108.4 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 232.4 492 Td (Executive Summary) Tj ET
-1 1 1 rg 50 350 330 105 re f
-0.85 0.9 0.89 RG 50 350 330 105 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 66 432 Td (Executive summary) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 410 Td (Connects manufacturing pain points to directional KPI) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 398 Td (movement without making unsupported ROI claims.) Tj ET
-1 1 1 rg 412 350 330 105 re f
-0.85 0.9 0.89 RG 412 350 330 105 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 428 432 Td (Problem statement) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 410 Td (Digital manufacturing initiatives are often justified with) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 398 Td (broad efficiency language. Leaders need a clearer link) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 386 Td (between shop-floor friction, review effort, release) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 374 Td (readiness, data visibility, and measurable business value.) Tj ET
-1 1 1 rg 50 210 692 110 re f
-0.85 0.9 0.89 RG 50 210 692 110 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 66 296 Td (Target-state recommendation) Tj ET
-0.31 0.38 0.44 rg BT /F1 10 Tf 66 274 Td (Frame the value case around directional KPI movement: reduced manual effort, improved right-first-time) Tj ET
-0.31 0.38 0.44 rg BT /F1 10 Tf 66 260 Td (execution, clearer release readiness, better deviation context, and more timely manufacturing visibility.) Tj ET
-1 1 1 rg 50 70 216 110 re f
-0.85 0.9 0.89 RG 50 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 64 156 Td (Value drivers) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 136 Td (- Deviation effort and context) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 124 Td (gathering.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 110 Td (- Batch review time and release) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 98 Td (readiness.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 84 Td (- Right-first-time execution and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 72 Td (documentation quality.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 58 Td (- Manufacturing visibility and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 46 Td (leadership decision support.) Tj ET
-1 1 1 rg 288 70 216 110 re f
-0.85 0.9 0.89 RG 288 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 302 156 Td (Assumptions) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 136 Td (- Values are illustrative and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 124 Td (directional, not financial) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 112 Td (commitments.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 98 Td (- Site-specific baselines are) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 86 Td (required before business-case) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 74 Td (approval.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 60 Td (- Benefits depend on adoption,) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 48 Td (master data quality, and sustained) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 36 Td (process governance.) Tj ET
-1 1 1 rg 526 70 216 110 re f
-0.85 0.9 0.89 RG 526 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 540 156 Td (Success criteria) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 136 Td (- KPIs are owned across) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 124 Td (operations, QA, and digital teams.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 110 Td (- Leadership can see how MES) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 98 Td (improvements connect to measurable) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 86 Td (value.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 72 Td (- Results are measured against) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 60 Td (agreed baseline data.) Tj ET
-0.60 0.41 0.14 rg BT /F1 7 Tf 50 35 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (SPREADSHEET MODEL) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Digital Manufacturing Value Case & KPI Impact Model) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Inputs & Assumptions) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.95 0.98 0.97 rg 45 420 702 70 re f
+0.84 0.89 0.88 RG 1 w 45 420 702 70 re S
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 465 Td (Directional model uses fictional baselines and target-state estimates. Values must be validated with) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 451 Td (site-specific data.) Tj ET
+1 1 1 rg 35 96 722 285 re f
+0.84 0.89 0.88 RG 1 w 35 96 722 285 re S
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 50 357 Td (KPI) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 265 357 Td (Baseline) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 335 357 Td (Target) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 405 357 Td (Change) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 475 357 Td (Impact %) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 550 357 Td (Qualitative impact) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 675 357 Td (Confidence) Tj ET
+0.84 0.89 0.88 RG 1 w 50 346 m 740 346 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 334 Td (Deviation investigation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 320 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 334 Td (120) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 334 Td (84) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 334 Td (-36) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 334 Td (30%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 334 Td (Reduced investigation load) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 334 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 315 m 740 315 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 303 Td (Batch review cycle time \(days\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 303 Td (8) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 303 Td (5) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 303 Td (-3) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 303 Td (38%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 303 Td (Faster review readiness) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 303 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 284 m 740 284 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 272 Td (Manual documentation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 258 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 272 Td (180) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 272 Td (105) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 272 Td (-75) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 272 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 272 Td (Less reconciliation) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 272 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 253 m 740 253 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 241 Td (Right-first-time execution \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 241 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 241 Td (94) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 241 Td (+6 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 241 Td (7%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 241 Td (Improved execution quality) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 241 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 222 m 740 222 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 210 Td (Release readiness \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 210 Td (72) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 210 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 210 Td (+16 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 210 Td (22%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 210 Td (Earlier visibility) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 210 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 191 m 740 191 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 179 Td (Manufacturing visibility score) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 179 Td (55) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 179 Td (78) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 179 Td (+23) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 179 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 179 Td (Better decision support) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 179 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 160 m 740 160 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 148 Td (Schedule adherence \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 148 Td (82) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 148 Td (90) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 148 Td (+8 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 148 Td (10%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 148 Td (Improved planning signal) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 148 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (1) Tj ET
 endstream
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2942 >>
+<< /Length 5061 >>
 stream
 0.043 0.082 0.141 rg 0 520 792 92 re f
 0.059 0.463 0.431 rg 0 512 792 8 re f
-0.88 0.98 0.96 rg BT /F2 9 Tf 50 575 Td (PORTFOLIO ARTIFACT 03) Tj ET
-1 1 1 rg BT /F2 24 Tf 50 550 Td (Digital Manufacturing Value Case & KPI Impact Model) Tj ET
-0.88 0.98 0.96 rg BT /F1 11 Tf 50 530 Td (Directional executive value case for MES-enabled operations) Tj ET
-0.88 0.98 0.96 rg BT /F1 8 Tf 600 574 Td (Kesler Aristide-Bonheur, MBA, PMP) Tj ET
-0.063 0.125 0.2 rg BT /F2 18 Tf 50 480 Td (Risks, dependencies, and KPI impact model) Tj ET
-1 1 1 rg 50 320 692 120 re f
-0.85 0.9 0.89 RG 50 320 692 120 re S
-0.063 0.125 0.2 rg BT /F2 12 Tf 66 414 Td (Risk and dependency framing) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 392 Td (- Directional value estimates require validation with actual site data.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 378 Td (- KPI ownership must be agreed across operations, QA, and digital teams.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 364 Td (- Benefits depend on adoption, master data quality, and sustained governance.) Tj ET
-1 1 1 rg 50 92 692 190 re f
-0.85 0.9 0.89 RG 50 92 692 190 re S
-0.063 0.125 0.2 rg BT /F2 12 Tf 66 256 Td (Directional KPI / success measures) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 66 232 Td (Measure) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 240 232 Td (Baseline / current signal) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 465 232 Td (Target-state signal) Tj ET
-0.88 0.92 0.91 RG 66 220 m 720 220 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 210 Td (Deviation effort) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 210 Td (Manual context gathering) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 210 Td (Richer triage context) Tj ET
-0.88 0.92 0.91 RG 66 182 m 720 182 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 172 Td (Batch review time) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 172 Td (Readiness discovered late) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 172 Td (Earlier missing-item visibility) Tj ET
-0.88 0.92 0.91 RG 66 144 m 720 144 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 134 Td (Right-first-time) Tj ET
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 124 Td (execution) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 134 Td (Corrections and rework difficult) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 124 Td (to trend) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 134 Td (Structured checks and clearer exception) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 124 Td (patterns) Tj ET
-0.88 0.92 0.91 RG 66 106 m 720 106 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 96 Td (Manufacturing visibility) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 96 Td (Status reporting delayed) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 96 Td (Shared execution and release readiness) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 86 Td (view) Tj ET
-0.60 0.41 0.14 rg BT /F1 7 Tf 50 55 Td (Values and examples are illustrative and directional. Validate assumptions with site-specific data before decision-making.) Tj ET
-0.31 0.38 0.44 rg BT /F1 7 Tf 610 35 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (SPREADSHEET MODEL) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Digital Manufacturing Value Case & KPI Impact Model) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Current State Baseline) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.95 0.98 0.97 rg 45 420 702 70 re f
+0.84 0.89 0.88 RG 1 w 45 420 702 70 re S
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 465 Td (Deviation investigation effort, batch review cycle time, manual documentation effort, right-first-time) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 451 Td (execution, release readiness, manufacturing visibility, and schedule adherence are modeled as baseline) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 437 Td (indicators.) Tj ET
+1 1 1 rg 35 96 722 285 re f
+0.84 0.89 0.88 RG 1 w 35 96 722 285 re S
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 50 357 Td (KPI) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 265 357 Td (Baseline) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 335 357 Td (Target) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 405 357 Td (Change) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 475 357 Td (Impact %) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 550 357 Td (Qualitative impact) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 675 357 Td (Confidence) Tj ET
+0.84 0.89 0.88 RG 1 w 50 346 m 740 346 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 334 Td (Deviation investigation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 320 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 334 Td (120) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 334 Td (84) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 334 Td (-36) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 334 Td (30%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 334 Td (Reduced investigation load) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 334 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 315 m 740 315 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 303 Td (Batch review cycle time \(days\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 303 Td (8) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 303 Td (5) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 303 Td (-3) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 303 Td (38%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 303 Td (Faster review readiness) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 303 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 284 m 740 284 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 272 Td (Manual documentation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 258 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 272 Td (180) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 272 Td (105) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 272 Td (-75) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 272 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 272 Td (Less reconciliation) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 272 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 253 m 740 253 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 241 Td (Right-first-time execution \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 241 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 241 Td (94) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 241 Td (+6 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 241 Td (7%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 241 Td (Improved execution quality) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 241 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 222 m 740 222 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 210 Td (Release readiness \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 210 Td (72) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 210 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 210 Td (+16 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 210 Td (22%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 210 Td (Earlier visibility) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 210 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 191 m 740 191 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 179 Td (Manufacturing visibility score) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 179 Td (55) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 179 Td (78) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 179 Td (+23) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 179 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 179 Td (Better decision support) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 179 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 160 m 740 160 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 148 Td (Schedule adherence \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 148 Td (82) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 148 Td (90) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 148 Td (+8 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 148 Td (10%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 148 Td (Improved planning signal) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 148 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 4919 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (SPREADSHEET MODEL) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Digital Manufacturing Value Case & KPI Impact Model) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Target State Scenario) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.95 0.98 0.97 rg 45 420 702 70 re f
+0.84 0.89 0.88 RG 1 w 45 420 702 70 re S
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 465 Td (Target values reflect improved MES execution, EBR workflow clarity, review readiness, integration visibility,) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 451 Td (and governance.) Tj ET
+1 1 1 rg 35 96 722 285 re f
+0.84 0.89 0.88 RG 1 w 35 96 722 285 re S
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 50 357 Td (KPI) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 265 357 Td (Baseline) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 335 357 Td (Target) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 405 357 Td (Change) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 475 357 Td (Impact %) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 550 357 Td (Qualitative impact) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 675 357 Td (Confidence) Tj ET
+0.84 0.89 0.88 RG 1 w 50 346 m 740 346 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 334 Td (Deviation investigation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 320 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 334 Td (120) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 334 Td (84) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 334 Td (-36) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 334 Td (30%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 334 Td (Reduced investigation load) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 334 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 315 m 740 315 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 303 Td (Batch review cycle time \(days\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 303 Td (8) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 303 Td (5) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 303 Td (-3) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 303 Td (38%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 303 Td (Faster review readiness) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 303 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 284 m 740 284 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 272 Td (Manual documentation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 258 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 272 Td (180) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 272 Td (105) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 272 Td (-75) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 272 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 272 Td (Less reconciliation) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 272 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 253 m 740 253 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 241 Td (Right-first-time execution \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 241 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 241 Td (94) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 241 Td (+6 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 241 Td (7%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 241 Td (Improved execution quality) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 241 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 222 m 740 222 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 210 Td (Release readiness \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 210 Td (72) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 210 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 210 Td (+16 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 210 Td (22%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 210 Td (Earlier visibility) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 210 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 191 m 740 191 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 179 Td (Manufacturing visibility score) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 179 Td (55) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 179 Td (78) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 179 Td (+23) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 179 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 179 Td (Better decision support) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 179 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 160 m 740 160 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 148 Td (Schedule adherence \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 148 Td (82) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 148 Td (90) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 148 Td (+8 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 148 Td (10%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 148 Td (Improved planning signal) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 148 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4947 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (SPREADSHEET MODEL) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Digital Manufacturing Value Case & KPI Impact Model) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (KPI Impact Model) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.95 0.98 0.97 rg 45 420 702 70 re f
+0.84 0.89 0.88 RG 1 w 45 420 702 70 re S
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 465 Td (Improvement amount = target value - baseline value. Improvement percent = improvement amount / baseline value,) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 451 Td (direction-adjusted for lower-is-better metrics.) Tj ET
+1 1 1 rg 35 96 722 285 re f
+0.84 0.89 0.88 RG 1 w 35 96 722 285 re S
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 50 357 Td (KPI) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 265 357 Td (Baseline) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 335 357 Td (Target) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 405 357 Td (Change) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 475 357 Td (Impact %) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 550 357 Td (Qualitative impact) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 675 357 Td (Confidence) Tj ET
+0.84 0.89 0.88 RG 1 w 50 346 m 740 346 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 334 Td (Deviation investigation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 320 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 334 Td (120) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 334 Td (84) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 334 Td (-36) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 334 Td (30%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 334 Td (Reduced investigation load) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 334 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 315 m 740 315 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 303 Td (Batch review cycle time \(days\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 303 Td (8) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 303 Td (5) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 303 Td (-3) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 303 Td (38%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 303 Td (Faster review readiness) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 303 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 284 m 740 284 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 272 Td (Manual documentation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 258 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 272 Td (180) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 272 Td (105) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 272 Td (-75) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 272 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 272 Td (Less reconciliation) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 272 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 253 m 740 253 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 241 Td (Right-first-time execution \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 241 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 241 Td (94) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 241 Td (+6 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 241 Td (7%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 241 Td (Improved execution quality) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 241 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 222 m 740 222 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 210 Td (Release readiness \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 210 Td (72) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 210 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 210 Td (+16 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 210 Td (22%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 210 Td (Earlier visibility) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 210 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 191 m 740 191 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 179 Td (Manufacturing visibility score) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 179 Td (55) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 179 Td (78) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 179 Td (+23) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 179 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 179 Td (Better decision support) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 179 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 160 m 740 160 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 148 Td (Schedule adherence \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 148 Td (82) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 148 Td (90) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 148 Td (+8 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 148 Td (10%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 148 Td (Improved planning signal) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 148 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 4986 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (SPREADSHEET MODEL) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Digital Manufacturing Value Case & KPI Impact Model) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Value Summary / Dashboard) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.95 0.98 0.97 rg 45 420 702 70 re f
+0.84 0.89 0.88 RG 1 w 45 420 702 70 re S
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 465 Td (Highest directional impact: review cycle time, manual documentation effort, release readiness, and visibility.) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 451 Td (Confidence is illustrative and should be refined with stakeholder validation.) Tj ET
+1 1 1 rg 35 96 722 285 re f
+0.84 0.89 0.88 RG 1 w 35 96 722 285 re S
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 50 357 Td (KPI) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 265 357 Td (Baseline) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 335 357 Td (Target) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 405 357 Td (Change) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 475 357 Td (Impact %) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 550 357 Td (Qualitative impact) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 675 357 Td (Confidence) Tj ET
+0.84 0.89 0.88 RG 1 w 50 346 m 740 346 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 334 Td (Deviation investigation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 320 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 334 Td (120) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 334 Td (84) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 334 Td (-36) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 334 Td (30%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 334 Td (Reduced investigation load) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 334 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 315 m 740 315 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 303 Td (Batch review cycle time \(days\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 303 Td (8) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 303 Td (5) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 303 Td (-3) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 303 Td (38%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 303 Td (Faster review readiness) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 303 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 284 m 740 284 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 272 Td (Manual documentation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 258 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 272 Td (180) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 272 Td (105) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 272 Td (-75) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 272 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 272 Td (Less reconciliation) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 272 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 253 m 740 253 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 241 Td (Right-first-time execution \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 241 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 241 Td (94) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 241 Td (+6 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 241 Td (7%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 241 Td (Improved execution quality) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 241 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 222 m 740 222 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 210 Td (Release readiness \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 210 Td (72) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 210 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 210 Td (+16 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 210 Td (22%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 210 Td (Earlier visibility) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 210 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 191 m 740 191 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 179 Td (Manufacturing visibility score) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 179 Td (55) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 179 Td (78) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 179 Td (+23) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 179 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 179 Td (Better decision support) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 179 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 160 m 740 160 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 148 Td (Schedule adherence \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 148 Td (82) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 148 Td (90) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 148 Td (+8 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 148 Td (10%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 148 Td (Improved planning signal) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 148 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (5) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 4928 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (SPREADSHEET MODEL) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Digital Manufacturing Value Case & KPI Impact Model) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Notes & Disclaimer) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.95 0.98 0.97 rg 45 420 702 70 re f
+0.84 0.89 0.88 RG 1 w 45 420 702 70 re S
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 465 Td (All numbers are illustrative, fictional, directional, and non-proprietary. This is a portfolio artifact, not a) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 65 451 Td (validated financial model.) Tj ET
+1 1 1 rg 35 96 722 285 re f
+0.84 0.89 0.88 RG 1 w 35 96 722 285 re S
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 50 357 Td (KPI) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 265 357 Td (Baseline) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 335 357 Td (Target) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 405 357 Td (Change) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 475 357 Td (Impact %) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 550 357 Td (Qualitative impact) Tj ET
+0.059 0.463 0.431 rg BT /F2 7.5 Tf 675 357 Td (Confidence) Tj ET
+0.84 0.89 0.88 RG 1 w 50 346 m 740 346 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 334 Td (Deviation investigation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 320 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 334 Td (120) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 334 Td (84) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 334 Td (-36) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 334 Td (30%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 334 Td (Reduced investigation load) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 334 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 315 m 740 315 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 303 Td (Batch review cycle time \(days\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 303 Td (8) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 303 Td (5) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 303 Td (-3) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 303 Td (38%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 303 Td (Faster review readiness) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 303 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 284 m 740 284 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 272 Td (Manual documentation effort) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 258 Td (\(hrs/month\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 272 Td (180) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 272 Td (105) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 272 Td (-75) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 272 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 272 Td (Less reconciliation) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 272 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 253 m 740 253 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 241 Td (Right-first-time execution \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 241 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 241 Td (94) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 241 Td (+6 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 241 Td (7%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 241 Td (Improved execution quality) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 241 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 222 m 740 222 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 210 Td (Release readiness \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 210 Td (72) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 210 Td (88) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 210 Td (+16 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 210 Td (22%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 210 Td (Earlier visibility) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 210 Td (Medium) Tj ET
+0.84 0.89 0.88 RG 1 w 50 191 m 740 191 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 179 Td (Manufacturing visibility score) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 179 Td (55) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 179 Td (78) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 179 Td (+23) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 179 Td (42%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 179 Td (Better decision support) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 179 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 160 m 740 160 l S
+0.31 0.38 0.44 rg BT /F1 7.2 Tf 50 148 Td (Schedule adherence \(%\)) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 265 148 Td (82) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 335 148 Td (90) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 405 148 Td (+8 pts) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 475 148 Td (10%) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.5 Tf 550 148 Td (Improved planning signal) Tj ET
+0.54 0.37 0.13 rg BT /F2 7.5 Tf 675 148 Td (Low-Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (6) Tj ET
 endstream
 endobj
 xref
-0 7
+0 15
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000121 00000 n 
-0000000360 00000 n 
-0000005065 00000 n 
-0000005304 00000 n 
+0000000147 00000 n 
+0000000443 00000 n 
+0000005408 00000 n 
+0000005704 00000 n 
+0000010817 00000 n 
+0000011113 00000 n 
+0000016084 00000 n 
+0000016381 00000 n 
+0000021381 00000 n 
+0000021679 00000 n 
+0000026718 00000 n 
+0000027016 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 15 /Root 1 0 R >>
 startxref
-8298
+31997
 %%EOF

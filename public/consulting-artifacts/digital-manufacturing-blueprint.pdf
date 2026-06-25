@@ -3,142 +3,210 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R] /Count 4 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 4931 >>
+<< /Length 2598 >>
 stream
 0.043 0.082 0.141 rg 0 520 792 92 re f
 0.059 0.463 0.431 rg 0 512 792 8 re f
-0.88 0.98 0.96 rg BT /F2 9 Tf 50 575 Td (PORTFOLIO ARTIFACT 01) Tj ET
-1 1 1 rg BT /F2 24 Tf 50 550 Td (MES Current-State Assessment & Target-State Blueprint) Tj ET
-0.88 0.98 0.96 rg BT /F1 11 Tf 50 530 Td (Assessment and future-state design for fictional regulated life sciences manufacturing) Tj ET
-0.88 0.98 0.96 rg BT /F1 8 Tf 600 574 Td (Kesler Aristide-Bonheur, MBA, PMP) Tj ET
-0.91 0.96 0.95 rg 50 486 87.60000000000001 20 re f
-0.75 0.86 0.84 RG 50 486 87.60000000000001 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 60 492 Td (Current State) Tj ET
-0.91 0.96 0.95 rg 145.60000000000002 486 82.4 20 re f
-0.75 0.86 0.84 RG 145.60000000000002 486 82.4 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 155.60000000000002 492 Td (Target State) Tj ET
-0.91 0.96 0.95 rg 236.00000000000003 486 35.6 20 re f
-0.75 0.86 0.84 RG 236.00000000000003 486 35.6 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 246.00000000000003 492 Td (MES) Tj ET
-0.91 0.96 0.95 rg 279.6 486 98 20 re f
-0.75 0.86 0.84 RG 279.6 486 98 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 289.6 492 Td (Operating Model) Tj ET
-1 1 1 rg 50 350 330 105 re f
-0.85 0.9 0.89 RG 50 350 330 105 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 66 432 Td (Executive summary) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 410 Td (Maps observed manufacturing reality to a cleaner) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 398 Td (MES-enabled target state across batch execution, QA) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 386 Td (review, equipment/material verification, deviations, and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 374 Td (manufacturing visibility.) Tj ET
-1 1 1 rg 412 350 330 105 re f
-0.85 0.9 0.89 RG 412 350 330 105 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 428 432 Td (Problem statement) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 410 Td (Manufacturing teams often inherit fragmented execution) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 398 Td (patterns: paper workarounds, unclear handoffs,) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 386 Td (disconnected review queues, and limited visibility into) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 374 Td (batch readiness.) Tj ET
-1 1 1 rg 50 210 692 110 re f
-0.85 0.9 0.89 RG 50 210 692 110 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 66 296 Td (Target-state recommendation) Tj ET
-0.31 0.38 0.44 rg BT /F1 10 Tf 66 274 Td (Define a target-state operating model that clarifies execution ownership, verification checkpoints, exception) Tj ET
-0.31 0.38 0.44 rg BT /F1 10 Tf 66 260 Td (routing, review readiness, and system-of-record boundaries across MES, automation, quality, and data layers.) Tj ET
-1 1 1 rg 50 70 216 110 re f
-0.85 0.9 0.89 RG 50 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 64 156 Td (Observed manufacturing reality) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 136 Td (- Operators need clearer prompts,) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 124 Td (references, and exception paths.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 110 Td (- QA review is slowed by) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 98 Td (incomplete context and manual) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 86 Td (reconciliation.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 72 Td (- QC, scheduling, and MES) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 60 Td (engineering often work from) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 48 Td (different readiness signals.) Tj ET
-1 1 1 rg 288 70 216 110 re f
-0.85 0.9 0.89 RG 288 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 302 156 Td (Target-state model) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 136 Td (- ERP releases production demand) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 124 Td (and material context.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 110 Td (- MES orchestrates recipe) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 98 Td (execution, checks, signatures, and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 86 Td (batch record state.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 72 Td (- QA/QC review uses structured) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 60 Td (exceptions, sample status, and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 48 Td (release readiness indicators.) Tj ET
-1 1 1 rg 526 70 216 110 re f
-0.85 0.9 0.89 RG 526 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 540 156 Td (Recommendations) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 136 Td (- Clarify ownership across) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 124 Td (operator, QA, QC, scheduling, and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 112 Td (MES engineering roles.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 98 Td (- Standardize verification and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 86 Td (exception handling.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 72 Td (- Create a shared MES-centered) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 60 Td (status model.) Tj ET
-0.60 0.41 0.14 rg BT /F1 7 Tf 50 35 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ASSESSMENT REPORT) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (MES Current-State Assessment & Target-State) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 527 Td (Blueprint) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Formal assessment and target-state blueprint for fictional regulated manufacturing) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.07 0.13 0.20 rg BT /F2 18 Tf 50 475 Td (Executive summary) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 50 452 Td (This assessment frames a fictional life sciences manufacturing environment where MES execution, SOP access, QA) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 50 438 Td (review, QC/LIMS visibility, scheduling handoffs, automation context, and process data are not yet operating as) Tj ET
+0.31 0.38 0.44 rg BT /F1 10 Tf 50 424 Td (one coherent execution system.) Tj ET
+0.95 0.98 0.97 rg 50 315 692 86 re f
+0.84 0.89 0.88 RG 1 w 50 315 692 86 re S
+0.07 0.13 0.20 rg BT /F2 12 Tf 66 376 Td (Objective and scope) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 356 Td (- Assess current-state friction across batch execution, QA readiness, QC/LIMS status, scheduling, MES) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 343 Td (engineering, and automation/IT-OT handoffs.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 328 Td (- Define a target-state operating model for MES-enabled execution and review readiness.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 313 Td (- Show fictional, non-proprietary examples only; not a validated site assessment.) Tj ET
+1 1 1 rg 50 140 692 135 re f
+0.84 0.89 0.88 RG 1 w 50 140 692 135 re S
+0.07 0.13 0.20 rg BT /F2 12 Tf 66 250 Td (Current-state risks) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 230 Td (- Execution variability caused by inconsistent prompts, workarounds, and exception paths.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 215 Td (- Fragmented SOP/reference access at point of execution.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 200 Td (- Disconnected QC results and sample readiness signals.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 185 Td (- Manual handoffs across scheduling, QA, and operations.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 170 Td (- Delayed QA readiness and limited batch review visibility.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (1) Tj ET
 endstream
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2720 >>
+<< /Length 3518 >>
 stream
 0.043 0.082 0.141 rg 0 520 792 92 re f
 0.059 0.463 0.431 rg 0 512 792 8 re f
-0.88 0.98 0.96 rg BT /F2 9 Tf 50 575 Td (PORTFOLIO ARTIFACT 01) Tj ET
-1 1 1 rg BT /F2 24 Tf 50 550 Td (MES Current-State Assessment & Target-State Blueprint) Tj ET
-0.88 0.98 0.96 rg BT /F1 11 Tf 50 530 Td (Assessment and future-state design for fictional regulated life sciences manufacturing) Tj ET
-0.88 0.98 0.96 rg BT /F1 8 Tf 600 574 Td (Kesler Aristide-Bonheur, MBA, PMP) Tj ET
-0.063 0.125 0.2 rg BT /F2 18 Tf 50 480 Td (Risks, dependencies, and KPI impact model) Tj ET
-1 1 1 rg 50 320 692 120 re f
-0.85 0.9 0.89 RG 50 320 692 120 re S
-0.063 0.125 0.2 rg BT /F2 12 Tf 66 414 Td (Risk and dependency framing) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 392 Td (- Master data or recipe ownership gaps can slow adoption.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 378 Td (- Exception handling must be designed with QA and operations alignment.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 364 Td (- System integrations need clear data ownership and validation expectations.) Tj ET
-1 1 1 rg 50 92 692 190 re f
-0.85 0.9 0.89 RG 50 92 692 190 re S
-0.063 0.125 0.2 rg BT /F2 12 Tf 66 256 Td (Directional KPI / success measures) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 66 232 Td (Measure) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 240 232 Td (Baseline / current signal) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 465 232 Td (Target-state signal) Tj ET
-0.88 0.92 0.91 RG 66 220 m 720 220 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 210 Td (Batch review readiness) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 210 Td (Manual reconciliation required) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 210 Td (Review package completeness visible) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 200 Td (earlier) Tj ET
-0.88 0.92 0.91 RG 66 182 m 720 182 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 172 Td (Execution exceptions) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 172 Td (Inconsistent routing and) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 162 Td (documentation) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 172 Td (Standardized exception capture and) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 162 Td (triage) Tj ET
-0.88 0.92 0.91 RG 66 144 m 720 144 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 134 Td (Operational visibility) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 134 Td (Readiness status scattered across) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 124 Td (teams) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 134 Td (Shared MES-centered readiness model) Tj ET
-0.60 0.41 0.14 rg BT /F1 7 Tf 50 55 Td (Values and examples are illustrative and directional. Validate assumptions with site-specific data before decision-making.) Tj ET
-0.31 0.38 0.44 rg BT /F1 7 Tf 610 35 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ASSESSMENT REPORT) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Pain-Point Matrix by Function) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Function-level assessment view) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 40 102 712 370 re f
+0.84 0.89 0.88 RG 1 w 40 102 712 370 re S
+0.059 0.463 0.431 rg BT /F2 9 Tf 55 448 Td (Function) Tj ET
+0.059 0.463 0.431 rg BT /F2 9 Tf 180 448 Td (Observed pain point) Tj ET
+0.059 0.463 0.431 rg BT /F2 9 Tf 500 448 Td (Risk / impact) Tj ET
+0.84 0.89 0.88 RG 1 w 55 434 m 735 434 l S
+0.07 0.13 0.20 rg BT /F2 8.5 Tf 55 420 Td (Manufacturing) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 420 Td (Execution prompts vary by product/line; operators) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 410 Td (rely on tribal knowledge.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 420 Td (Higher correction effort and) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 410 Td (inconsistent exception) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 400 Td (documentation.) Tj ET
+0.84 0.89 0.88 RG 1 w 55 379 m 735 379 l S
+0.07 0.13 0.20 rg BT /F2 8.5 Tf 55 365 Td (QA) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 365 Td (Review package completeness is discovered late.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 365 Td (Delayed readiness, manual) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 355 Td (reconciliation, and avoidable) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 345 Td (rework.) Tj ET
+0.84 0.89 0.88 RG 1 w 55 324 m 735 324 l S
+0.07 0.13 0.20 rg BT /F2 8.5 Tf 55 310 Td (QC/LIMS) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 310 Td (Sample status and results are not visible in the) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 300 Td (execution context.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 310 Td (Release decisions require extra) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 300 Td (follow-up and status chasing.) Tj ET
+0.84 0.89 0.88 RG 1 w 55 269 m 735 269 l S
+0.07 0.13 0.20 rg BT /F2 8.5 Tf 55 255 Td (Scheduling) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 255 Td (Schedule changes do not always align with) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 245 Td (batch/system readiness.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 255 Td (Priority conflicts and unclear) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 245 Td (readiness signals.) Tj ET
+0.84 0.89 0.88 RG 1 w 55 214 m 735 214 l S
+0.07 0.13 0.20 rg BT /F2 8.5 Tf 55 200 Td (MES Engineering) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 200 Td (Recipe support queues mix defects, changes, and) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 190 Td (how-to questions.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 200 Td (Support demand is reactive and) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 190 Td (hard to prioritize.) Tj ET
+0.84 0.89 0.88 RG 1 w 55 159 m 735 159 l S
+0.07 0.13 0.20 rg BT /F2 8.5 Tf 55 145 Td (Automation/IT-OT) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 145 Td (Process context is available but not always) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 180 135 Td (connected to review needs.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 145 Td (Automation data is underused for) Tj ET
+0.31 0.38 0.44 rg BT /F1 8 Tf 500 135 Td (batch context and investigation.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2184 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ASSESSMENT REPORT) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Target-State Operating Model) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Future-state system flow and accountability) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.95 0.98 0.97 rg 50 345 692 105 re f
+0.84 0.89 0.88 RG 1 w 50 345 692 105 re S
+0.07 0.13 0.20 rg BT /F2 12 Tf 66 420 Td (Target-state system flow) Tj ET
+0.059 0.463 0.431 rg BT /F2 10 Tf 80 385 Td (ERP -> MES -> Automation -> LIMS -> Process Data -> QA Review) Tj ET
+0.31 0.38 0.44 rg BT /F1 9 Tf 66 360 Td (ERP releases demand and material context. MES orchestrates recipe execution, checks, signatures, and batch) Tj ET
+0.31 0.38 0.44 rg BT /F1 9 Tf 66 347 Td (record status. Automation and process data provide execution context. LIMS contributes sample status/results.) Tj ET
+0.31 0.38 0.44 rg BT /F1 9 Tf 66 334 Td (QA review receives structured exceptions, evidence, and release readiness signals.) Tj ET
+1 1 1 rg 50 105 692 190 re f
+0.84 0.89 0.88 RG 1 w 50 105 692 190 re S
+0.07 0.13 0.20 rg BT /F2 12 Tf 66 270 Td (Target-state operating model) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 248 Td (- MES is the operational system of record for batch execution state and exception context.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 233 Td (- Operators, QA, QC, scheduling, MES engineering, and automation support share a common readiness model.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 218 Td (- Review readiness is visible earlier through structured batch status, missing item, deviation, and sample) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 205 Td (indicators.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 190 Td (- SOP/reference access is embedded near execution steps, reducing search time and informal workarounds.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3523 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ASSESSMENT REPORT) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Gap Assessment and Recommendations) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Prioritized assessment output) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 35 245 722 220 re f
+0.84 0.89 0.88 RG 1 w 35 245 722 220 re S
+0.059 0.463 0.431 rg BT /F2 8.5 Tf 50 442 Td (Current state) Tj ET
+0.059 0.463 0.431 rg BT /F2 8.5 Tf 230 442 Td (Risk / impact) Tj ET
+0.059 0.463 0.431 rg BT /F2 8.5 Tf 420 442 Td (Target state) Tj ET
+0.059 0.463 0.431 rg BT /F2 8.5 Tf 650 442 Td (Priority) Tj ET
+0.84 0.89 0.88 RG 1 w 50 427 m 742 427 l S
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 415 Td (SOP access: Fragmented) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 401 Td (references) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 230 415 Td (Search time, wrong-version risk) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 420 415 Td (Step-level controlled references) Tj ET
+0.70 0.20 0.10 rg BT /F2 8 Tf 650 415 Td (High) Tj ET
+0.84 0.89 0.88 RG 1 w 50 390 m 742 390 l S
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 378 Td (QC status: Disconnected) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 364 Td (sample visibility) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 230 378 Td (Release follow-up and delays) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 420 378 Td (MES/LIMS readiness signal) Tj ET
+0.70 0.20 0.10 rg BT /F2 8 Tf 650 378 Td (High) Tj ET
+0.84 0.89 0.88 RG 1 w 50 353 m 742 353 l S
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 341 Td (QA review: Completeness) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 327 Td (known late) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 230 341 Td (Manual reconciliation) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 420 341 Td (Review readiness dashboard) Tj ET
+0.70 0.20 0.10 rg BT /F2 8 Tf 650 341 Td (High) Tj ET
+0.84 0.89 0.88 RG 1 w 50 316 m 742 316 l S
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 304 Td (Exception routing:) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 290 Td (Inconsistent capture) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 230 304 Td (Deviation effort and rework) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 420 304 Td (Standard exception pathways) Tj ET
+0.54 0.37 0.13 rg BT /F2 8 Tf 650 304 Td (Med) Tj ET
+0.84 0.89 0.88 RG 1 w 50 279 m 742 279 l S
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 267 Td (Scheduling handoff:) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 50 253 Td (Readiness not shared) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 230 267 Td (Priority churn) Tj ET
+0.31 0.38 0.44 rg BT /F1 7.8 Tf 420 267 Td (Shared batch readiness model) Tj ET
+0.54 0.37 0.13 rg BT /F2 8 Tf 650 267 Td (Med) Tj ET
+0.95 0.98 0.97 rg 50 92 692 110 re f
+0.84 0.89 0.88 RG 1 w 50 92 692 110 re S
+0.07 0.13 0.20 rg BT /F2 12 Tf 66 176 Td (Recommendations and success measures) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 154 Td (- Standardize MES execution prompts, exception capture, and review readiness indicators.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 139 Td (- Integrate QC/LIMS and process data status into batch context where appropriate.) Tj ET
+0.31 0.38 0.44 rg BT /F1 8.8 Tf 66 124 Td (- Measure review readiness, exception cycle time, right-first-time execution, and schedule adherence.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (4) Tj ET
 endstream
 endobj
 xref
-0 7
+0 11
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000121 00000 n 
-0000000360 00000 n 
-0000005343 00000 n 
-0000005582 00000 n 
+0000000133 00000 n 
+0000000429 00000 n 
+0000003079 00000 n 
+0000003375 00000 n 
+0000006945 00000 n 
+0000007241 00000 n 
+0000009477 00000 n 
+0000009774 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 11 /Root 1 0 R >>
 startxref
-8354
+13350
 %%EOF

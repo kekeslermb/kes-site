@@ -3,141 +3,290 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R] /Count 10 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 4714 >>
+<< /Length 896 >>
 stream
 0.043 0.082 0.141 rg 0 520 792 92 re f
 0.059 0.463 0.431 rg 0 512 792 8 re f
-0.88 0.98 0.96 rg BT /F2 9 Tf 50 575 Td (PORTFOLIO ARTIFACT 02) Tj ET
-1 1 1 rg BT /F2 24 Tf 50 550 Td (MES Implementation Roadmap & Delivery Plan) Tj ET
-0.88 0.98 0.96 rg BT /F1 11 Tf 50 530 Td (Rollout planning for MES and digital manufacturing initiatives) Tj ET
-0.88 0.98 0.96 rg BT /F1 8 Tf 600 574 Td (Kesler Aristide-Bonheur, MBA, PMP) Tj ET
-0.91 0.96 0.95 rg 50 486 56.4 20 re f
-0.75 0.86 0.84 RG 50 486 56.4 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 60 492 Td (Roadmap) Tj ET
-0.91 0.96 0.95 rg 114.4 486 61.6 20 re f
-0.75 0.86 0.84 RG 114.4 486 61.6 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 124.4 492 Td (Delivery) Tj ET
-0.91 0.96 0.95 rg 184 486 124 20 re f
-0.75 0.86 0.84 RG 184 486 124 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 194 492 Td (Validation Readiness) Tj ET
-0.91 0.96 0.95 rg 316 486 108.4 20 re f
-0.75 0.86 0.84 RG 316 486 108.4 20 re S
-0.059 0.463 0.431 rg BT /F2 8 Tf 326 492 Td (Change Management) Tj ET
-1 1 1 rg 50 350 330 105 re f
-0.85 0.9 0.89 RG 50 350 330 105 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 66 432 Td (Executive summary) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 410 Td (Frames MES implementation as an operational transformation) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 398 Td (program supported by technology, validation readiness,) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 386 Td (training, pilot execution, and hypercare.) Tj ET
-1 1 1 rg 412 350 330 105 re f
-0.85 0.9 0.89 RG 412 350 330 105 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 428 432 Td (Problem statement) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 410 Td (MES initiatives can stall when project teams treat) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 398 Td (implementation as a technical configuration effort only.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 386 Td (Regulated programs need sequencing, accountability,) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 428 374 Td (readiness gates, and adoption planning.) Tj ET
-1 1 1 rg 50 210 692 110 re f
-0.85 0.9 0.89 RG 50 210 692 110 re S
-0.063 0.125 0.2 rg BT /F2 13 Tf 66 296 Td (Target-state recommendation) Tj ET
-0.31 0.38 0.44 rg BT /F1 10 Tf 66 274 Td (Use a phased roadmap with named owners, readiness gates, risk mitigation, pilot criteria, and hypercare) Tj ET
-0.31 0.38 0.44 rg BT /F1 10 Tf 66 260 Td (feedback loops.) Tj ET
-1 1 1 rg 50 70 216 110 re f
-0.85 0.9 0.89 RG 50 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 64 156 Td (Phased roadmap) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 136 Td (- Discovery and current-state) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 124 Td (mapping.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 110 Td (- Recipe/EBR design and master) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 98 Td (data readiness.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 84 Td (- Validation/CSV planning and test) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 72 Td (execution.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 58 Td (- Training, pilot, go-live,) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 46 Td (hypercare, and continuous) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 64 34 Td (improvement.) Tj ET
-1 1 1 rg 288 70 216 110 re f
-0.85 0.9 0.89 RG 288 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 302 156 Td (Owner/RACI-style thinking) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 136 Td (- Operations owns process fit and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 124 Td (shop-floor readiness.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 110 Td (- QA/validation owns compliance) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 98 Td (expectations and evidence.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 84 Td (- MES engineering owns) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 72 Td (configuration, integrations, and) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 302 60 Td (support model.) Tj ET
-1 1 1 rg 526 70 216 110 re f
-0.85 0.9 0.89 RG 526 70 216 110 re S
-0.063 0.125 0.2 rg BT /F2 11 Tf 540 156 Td (Risk mitigation) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 136 Td (- Create master data readiness) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 124 Td (checkpoints before recipe build.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 110 Td (- Align QA, validation,) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 98 Td (operations, automation, and MES) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 86 Td (engineering on acceptance) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 74 Td (criteria.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 60 Td (- Track pilot issues through) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 48 Td (hypercare and continuous) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 540 36 Td (improvement loops.) Tj ET
-0.60 0.41 0.14 rg BT /F1 7 Tf 50 35 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (MES Implementation Roadmap & Delivery Plan) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 1 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.95 0.98 0.97 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 385 Td (Purpose: show a consultant-ready roadmap for MES and) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 357 Td (digital manufacturing delivery.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (1) Tj ET
 endstream
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 2552 >>
+<< /Length 1045 >>
 stream
 0.043 0.082 0.141 rg 0 520 792 92 re f
 0.059 0.463 0.431 rg 0 512 792 8 re f
-0.88 0.98 0.96 rg BT /F2 9 Tf 50 575 Td (PORTFOLIO ARTIFACT 02) Tj ET
-1 1 1 rg BT /F2 24 Tf 50 550 Td (MES Implementation Roadmap & Delivery Plan) Tj ET
-0.88 0.98 0.96 rg BT /F1 11 Tf 50 530 Td (Rollout planning for MES and digital manufacturing initiatives) Tj ET
-0.88 0.98 0.96 rg BT /F1 8 Tf 600 574 Td (Kesler Aristide-Bonheur, MBA, PMP) Tj ET
-0.063 0.125 0.2 rg BT /F2 18 Tf 50 480 Td (Risks, dependencies, and KPI impact model) Tj ET
-1 1 1 rg 50 320 692 120 re f
-0.85 0.9 0.89 RG 50 320 692 120 re S
-0.063 0.125 0.2 rg BT /F2 12 Tf 66 414 Td (Risk and dependency framing) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 392 Td (- Master data gaps delay recipe configuration and testing.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 378 Td (- Insufficient QA/validation engagement creates late-stage rework.) Tj ET
-0.31 0.38 0.44 rg BT /F1 9 Tf 66 364 Td (- Training that does not reflect actual execution scenarios reduces adoption.) Tj ET
-1 1 1 rg 50 92 692 190 re f
-0.85 0.9 0.89 RG 50 92 692 190 re S
-0.063 0.125 0.2 rg BT /F2 12 Tf 66 256 Td (Directional KPI / success measures) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 66 232 Td (Measure) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 240 232 Td (Baseline / current signal) Tj ET
-0.059 0.463 0.431 rg BT /F2 8 Tf 465 232 Td (Target-state signal) Tj ET
-0.88 0.92 0.91 RG 66 220 m 720 220 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 210 Td (Milestone health) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 210 Td (Task completion tracked) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 200 Td (inconsistently) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 210 Td (Phase gates tied to readiness evidence) Tj ET
-0.88 0.92 0.91 RG 66 182 m 720 182 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 172 Td (Training readiness) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 172 Td (Generic role training) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 172 Td (Scenario-based operator, QA, and support) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 162 Td (readiness) Tj ET
-0.88 0.92 0.91 RG 66 144 m 720 144 l S
-0.063 0.125 0.2 rg BT /F2 8 Tf 66 134 Td (Go-live stability) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 240 134 Td (Support model defined late) Tj ET
-0.31 0.38 0.44 rg BT /F1 8 Tf 465 134 Td (Hypercare model ready before pilot) Tj ET
-0.60 0.41 0.14 rg BT /F1 7 Tf 50 55 Td (Values and examples are illustrative and directional. Validate assumptions with site-specific data before decision-making.) Tj ET
-0.31 0.38 0.44 rg BT /F1 7 Tf 610 35 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Executive Summary) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 2 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 385 Td (MES implementation should be managed as a) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 357 Td (cross-functional transformation program with delivery) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 329 Td (controls, validation readiness, training, pilot) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 301 Td (execution, and hypercare.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1031 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Current-State Challenge) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 3 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 385 Td (Teams often begin configuration before process) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 357 Td (alignment, master data readiness, validation) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 329 Td (expectations, and role-based adoption planning are) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 301 Td (clear.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 982 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Target-State Vision) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 4 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 385 Td (A controlled MES operating model where recipes, EBR) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 357 Td (workflows, master data, integrations, QA review, and) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 329 Td (reporting support reliable shop-floor execution.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 884 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Workstreams) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 5 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.059 0.463 0.431 rg BT /F2 18 Tf 85 385 Td (Process | Recipe/EBR | Master Data | Integrations |) Tj ET
+0.059 0.463 0.431 rg BT /F2 18 Tf 85 357 Td (QA/Validation | Training/Change Management | Reporting) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (5) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1987 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Phased Roadmap) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 6 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.059 0.463 0.431 rg BT /F2 18 Tf 85 385 Td (Phase 0 Discovery -> Phase 1 Current-state mapping ->) Tj ET
+0.059 0.463 0.431 rg BT /F2 18 Tf 85 357 Td (Phase 2 Design/build -> Phase 3 Validation/readiness) Tj ET
+0.059 0.463 0.431 rg BT /F2 18 Tf 85 329 Td (-> Phase 4 Pilot/go-live -> Phase 5 Hypercare) Tj ET
+0.91 0.96 0.95 rg 70 140 105 55 re f
+0.55 0.74 0.70 RG 1 w 70 140 105 55 re S
+0.07 0.13 0.20 rg BT /F2 8 Tf 80 172 Td (0 Discovery) Tj ET
+0.91 0.96 0.95 rg 182 140 105 55 re f
+0.55 0.74 0.70 RG 1 w 182 140 105 55 re S
+0.07 0.13 0.20 rg BT /F2 8 Tf 192 172 Td (1) Tj ET
+0.07 0.13 0.20 rg BT /F2 8 Tf 192 162 Td (Current-state) Tj ET
+0.91 0.96 0.95 rg 294 140 105 55 re f
+0.55 0.74 0.70 RG 1 w 294 140 105 55 re S
+0.07 0.13 0.20 rg BT /F2 8 Tf 304 172 Td (2) Tj ET
+0.07 0.13 0.20 rg BT /F2 8 Tf 304 162 Td (Design/build) Tj ET
+0.91 0.96 0.95 rg 406 140 105 55 re f
+0.55 0.74 0.70 RG 1 w 406 140 105 55 re S
+0.07 0.13 0.20 rg BT /F2 8 Tf 416 172 Td (3 Validation) Tj ET
+0.91 0.96 0.95 rg 518 140 105 55 re f
+0.55 0.74 0.70 RG 1 w 518 140 105 55 re S
+0.07 0.13 0.20 rg BT /F2 8 Tf 528 172 Td (4) Tj ET
+0.07 0.13 0.20 rg BT /F2 8 Tf 528 162 Td (Pilot/go-live) Tj ET
+0.91 0.96 0.95 rg 630 140 105 55 re f
+0.55 0.74 0.70 RG 1 w 630 140 105 55 re S
+0.07 0.13 0.20 rg BT /F2 8 Tf 640 172 Td (5 Hypercare) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (6) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1073 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (RACI / Ownership View) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 7 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 385 Td (Operations owns process fit. QA/Validation owns) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 357 Td (compliance evidence. MES Engineering owns) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 329 Td (configuration and support. Automation/IT-OT owns) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 301 Td (integration readiness. Leadership owns prioritization.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (7) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 1701 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Risk and Mitigation Table) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 8 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 385 Td (Master data gaps, late validation input, unclear) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 357 Td (ownership, and training gaps require early readiness) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 329 Td (gates and named accountable owners.) Tj ET
+0.07 0.13 0.20 rg BT /F2 10 Tf 90 205 Td (Risk) Tj ET
+0.07 0.13 0.20 rg BT /F2 10 Tf 370 205 Td (Mitigation) Tj ET
+0.84 0.89 0.88 RG 1 w 90 197 m 690 197 l S
+0.07 0.13 0.20 rg BT /F1 10 Tf 90 171 Td (Master data not ready) Tj ET
+0.07 0.13 0.20 rg BT /F1 10 Tf 370 171 Td (Add readiness gate before build) Tj ET
+0.84 0.89 0.88 RG 1 w 90 163 m 690 163 l S
+0.07 0.13 0.20 rg BT /F1 10 Tf 90 137 Td (Validation input late) Tj ET
+0.07 0.13 0.20 rg BT /F1 10 Tf 370 137 Td (Bring QA/CSV into design) Tj ET
+0.84 0.89 0.88 RG 1 w 90 129 m 690 129 l S
+0.07 0.13 0.20 rg BT /F1 10 Tf 90 103 Td (Training too generic) Tj ET
+0.07 0.13 0.20 rg BT /F1 10 Tf 370 103 Td (Use role-based scenarios) Tj ET
+0.84 0.89 0.88 RG 1 w 90 95 m 690 95 l S
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (8) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 1034 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (KPI / Readiness Gates) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 9 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 385 Td (Track process sign-off, master data completeness,) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 357 Td (recipe build progress, test execution, training) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 329 Td (readiness, pilot issue closure, and hypercare) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 301 Td (stability.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (9) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 980 >>
+stream
+0.043 0.082 0.141 rg 0 520 792 92 re f
+0.059 0.463 0.431 rg 0 512 792 8 re f
+0.88 0.98 0.96 rg BT /F2 8 Tf 50 576 Td (ROADMAP DECK) Tj ET
+1 1 1 rg BT /F2 22 Tf 50 552 Td (Recommended Next Steps) Tj ET
+0.88 0.98 0.96 rg BT /F1 10 Tf 50 527 Td (Slide 10 of 10) Tj ET
+0.88 0.98 0.96 rg BT /F1 7.5 Tf 610 576 Td (Portfolio artifact - Kesler Aristide-Bonheur) Tj ET
+1 1 1 rg 60 250 672 180 re f
+0.84 0.89 0.88 RG 1 w 60 250 672 180 re S
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 385 Td (Confirm scope, map current state, align owners,) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 357 Td (baseline KPIs, define readiness gates, and pilot a) Tj ET
+0.31 0.38 0.44 rg BT /F1 18 Tf 85 329 Td (controlled MES workflow before broader rollout.) Tj ET
+0.84 0.89 0.88 RG 1 w 50 42 m 742 42 l S
+0.54 0.37 0.13 rg BT /F1 7 Tf 50 27 Td (Illustrative portfolio artifact using fictional, non-proprietary examples. Not based on confidential employer data.) Tj ET
+0.31 0.38 0.44 rg BT /F1 7 Tf 720 27 Td (10) Tj ET
 endstream
 endobj
 xref
-0 7
+0 23
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000121 00000 n 
-0000000360 00000 n 
-0000005126 00000 n 
-0000005365 00000 n 
+0000000176 00000 n 
+0000000472 00000 n 
+0000001419 00000 n 
+0000001715 00000 n 
+0000002812 00000 n 
+0000003108 00000 n 
+0000004191 00000 n 
+0000004488 00000 n 
+0000005522 00000 n 
+0000005820 00000 n 
+0000006756 00000 n 
+0000007054 00000 n 
+0000009094 00000 n 
+0000009392 00000 n 
+0000010518 00000 n 
+0000010816 00000 n 
+0000012570 00000 n 
+0000012868 00000 n 
+0000013955 00000 n 
+0000014253 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 23 /Root 1 0 R >>
 startxref
-7969
+15285
 %%EOF
